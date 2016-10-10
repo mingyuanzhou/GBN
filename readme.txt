@@ -6,6 +6,7 @@ Matlab code for the following two papers:
 
 The code is written by Mingyuan Zhou and contributed by Yulai Cong.
 
+
 (1) Compile c mex files if the provided mex files do not work on your computers:
 make.m
 
@@ -38,14 +39,13 @@ Truncated_bessel_rnd.m
 Classify_Direct.m
 
 
+
 Folders:
 (i) plot_images_tree: the folder contains the files and code to reproduce Figures 22-24 of [1]
 
 (ii) plot_topics_tree: the folder contains the files and code to reproduce Figures 3-7 and 17-21 of [1]
 
 (iii) misc.: files that have not been cleaned
-
-
 
 
 
