@@ -1,0 +1,210 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_7" [ rank =5,fontsize =46.4739, shape=box, style="rounded", color=red, label="7 team game hockey season
+games nhl year play
+new league players teams"]
+"5_7" -> "4_6" [penwidth=14.6704,dir=forward]
+"4_6" [rank =6,fontsize =46.5921, shape=box, style="rounded", color=green,label="6 team game hockey season
+games nhl year play
+league new players teams"]
+"4_6" [ rank =4,fontsize =46.5921, shape=box, style="rounded", color=green, label="6 team game hockey season
+games nhl year play
+league new players teams"]
+"4_6" -> "3_6" [penwidth=14.9015,dir=forward]
+"3_6" [rank =5,fontsize =48.081, shape=box, style="rounded", color=orange,label="6 team game hockey season
+games nhl year play
+league new players teams"]
+"3_6" [ rank =3,fontsize =48.081, shape=box, style="rounded", color=orange, label="6 team game hockey season
+games nhl year play
+league new players teams"]
+"3_6" -> "2_4" [penwidth=14.9348,dir=forward]
+"2_4" [rank =4,fontsize =48.8024, shape=box, style="rounded", color=blue,label="4 team game hockey season
+games nhl year play
+league new players teams"]
+"2_4" [ rank =2,fontsize =48.8024, shape=box, style="rounded", color=blue, label="4 team game hockey season
+games nhl year play
+league new players teams"]
+"2_4" -> "1_1" [penwidth=7.4365,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_4" -> "1_2" [penwidth=4.8505,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_4" -> "1_3" [penwidth=1.6406,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_4" -> "1_7" [penwidth=1.5248,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_4" -> "1_10" [penwidth=1.7488,dir=forward]
+"1_10" [rank =3,fontsize =39.7848, shape=box, style="rounded", color=black,label="10 year
+game
+team
+baseball
+runs
+games
+season
+players
+hit
+win
+league
+pitching"]
+"2_4" -> "1_11" [penwidth=10.0821,dir=forward]
+"1_11" [rank =3,fontsize =39.7004, shape=box, style="rounded", color=black,label="11 team
+game
+hockey
+season
+games
+nhl
+year
+league
+teams
+players
+play
+cup"]
+"2_4" -> "1_26" [penwidth=1.6313,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_4" -> "1_46" [penwidth=3.1027,dir=forward]
+"1_46" [rank =3,fontsize =31.3943, shape=box, style="rounded", color=black,label="46 period
+play
+power
+pp
+puck
+goal
+flyers
+shots
+pts
+scorer
+second
+lindros"]
+"2_4" -> "1_57" [penwidth=2.2185,dir=forward]
+"1_57" [rank =3,fontsize =29.6447, shape=box, style="rounded", color=black,label="57 roger
+maynard
+gainey
+laurentian
+ramsey
+bob
+hockey
+player
+uwo
+best
+gilmour
+business"]
+"2_4" -> "1_62" [penwidth=1.7135,dir=forward]
+"1_62" [rank =3,fontsize =29.2683, shape=box, style="rounded", color=black,label="62 sweden
+fi
+finland
+germany
+canada
+players
+finnish
+german
+april
+swedish
+wc
+czech"]
+"2_4" -> "1_78" [penwidth=1.4211,dir=forward]
+"1_78" [rank =3,fontsize =27.8314, shape=box, style="rounded", color=black,label="78 gld
+columbia
+dare
+gary
+bitnet
+keenan
+domi
+je
+souviens
+cunixc
+selanne
+jets"]
+"2_4" -> "1_94" [penwidth=1.4211,dir=forward]
+"1_94" [rank =3,fontsize =27.0747, shape=box, style="rounded", color=black,label="94 mask
+gatech
+mike
+hrivnak
+prism
+gtd
+pts
+andrew
+city
+tulsa
+votes
+team"]
+"2_4" -> "1_95" [penwidth=1.3774,dir=forward]
+"1_95" [rank =3,fontsize =27.0583, shape=box, style="rounded", color=black,label="95 buffalo
+cmu
+hammerl
+andrew
+acsu
+clement
+ferguson
+rochester
+valerie
+ubvms
+lemieux
+pitt"]
+"2_4" -> "1_97" [penwidth=1.3663,dir=forward]
+"1_97" [rank =3,fontsize =27.0424, shape=box, style="rounded", color=black,label="97 bos
+det
+chi
+cal
+tor
+vs
+van
+pit
+stl
+mon
+que
+nyi"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_10" "1_11" "1_26" "1_46" "1_57" "1_62" "1_78" "1_94" "1_95" "1_97"}{rank=same; "2_4" "2_4"}{rank=same; "3_6" "3_6"}{rank=same; "4_6" "4_6"}{rank=same; "5_7"}}

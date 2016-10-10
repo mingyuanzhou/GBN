@@ -1,0 +1,476 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_13" [ rank =3,fontsize =45.9571, shape=box, style="rounded", color=orange, label="13 gun guns firearms crime
+control law weapons state
+new self government said"]
+"3_13" -> "2_14" [penwidth=14.6155,dir=forward]
+"2_14" [rank =4,fontsize =46.4877, shape=box, style="rounded", color=blue,label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"3_13" -> "2_36" [penwidth=2.9856,dir=forward]
+"2_36" [rank =4,fontsize =34.8678, shape=box, style="rounded", color=blue,label="36 ra semi revolver police
+auto safety gun uic
+uicvm kratz cops jason"]
+"2_14" [ rank =2,fontsize =46.4877, shape=box, style="rounded", color=blue, label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"2_14" -> "1_1" [penwidth=8.8402,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_14" -> "1_2" [penwidth=4.8125,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_14" -> "1_7" [penwidth=3.0052,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_14" -> "1_14" [penwidth=5.3489,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_14" -> "1_23" [penwidth=7.9301,dir=forward]
+"1_23" [rank =3,fontsize =36.0426, shape=box, style="rounded", color=black,label="23 gun
+guns
+firearms
+crime
+control
+weapons
+self
+criminals
+defense
+handgun
+firearm
+violent"]
+"2_14" -> "1_26" [penwidth=1.9489,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_14" -> "1_39" [penwidth=0.78414,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_14" -> "1_58" [penwidth=0.95923,dir=forward]
+"1_58" [rank =3,fontsize =29.601, shape=box, style="rounded", color=black,label="58 ra
+semi
+revolver
+police
+auto
+safety
+gun
+uicvm
+uic
+kratz
+cops
+jason"]
+"2_14" -> "1_60" [penwidth=0.86354,dir=forward]
+"1_60" [rank =3,fontsize =29.5728, shape=box, style="rounded", color=black,label="60 roby
+fbi
+udel
+handheld
+jim
+jmd
+chopin
+clinton
+scott
+children
+idbsu
+affair"]
+"2_14" -> "1_61" [penwidth=1.0252,dir=forward]
+"1_61" [rank =3,fontsize =29.4344, shape=box, style="rounded", color=black,label="61 callison
+uoknor
+james
+car
+ecn
+lights
+uokmax
+fake
+bird
+continental
+alarm
+slb"]
+"2_14" -> "1_76" [penwidth=1.9264,dir=forward]
+"1_76" [rank =3,fontsize =28.2238, shape=box, style="rounded", color=black,label="76 militia
+amendment
+arms
+bear
+second
+constitution
+regulated
+government
+shall
+state
+ulowell
+organized"]
+"2_14" -> "1_92" [penwidth=1.5217,dir=forward]
+"1_92" [rank =3,fontsize =27.1228, shape=box, style="rounded", color=black,label="92 weapons
+iastate
+dan
+nuclear
+viking
+sorenson
+destruction
+weapon
+homosexuality
+isu
+roehm
+unusual"]
+"2_14" -> "1_138" [penwidth=1.1457,dir=forward]
+"1_138" [rank =3,fontsize =25.2983, shape=box, style="rounded", color=black,label="138 manes
+magpie
+linknet
+knife
+rate
+uk
+handgun
+total
+population
+steve
+likely
+numbers"]
+"2_14" -> "1_186" [penwidth=0.93623,dir=forward]
+"1_186" [rank =3,fontsize =24.2163, shape=box, style="rounded", color=black,label="186 hp
+apollo
+nelson
+col
+peter
+swiss
+switzerland
+kuwaitis
+military
+hitler
+count
+white"]
+"2_14" -> "1_201" [penwidth=0.83791,dir=forward]
+"1_201" [rank =3,fontsize =23.8156, shape=box, style="rounded", color=black,label="201 san
+traders
+ads
+ad
+fran
+run
+newspapers
+examiner
+jose
+pob
+chronicle
+leandro"]
+"2_36" [ rank =2,fontsize =34.8678, shape=box, style="rounded", color=blue, label="36 ra semi revolver police
+auto safety gun uic
+uicvm kratz cops jason"]
+"2_36" -> "1_1" [penwidth=8.2218,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_36" -> "1_16" [penwidth=0.94594,dir=forward]
+"1_16" [rank =3,fontsize =37.569, shape=box, style="rounded", color=black,label="16 clipper
+government
+chip
+key
+encryption
+nsa
+phone
+crypto
+secure
+keys
+netcom
+public"]
+"2_36" -> "1_43" [penwidth=0.94594,dir=forward]
+"1_43" [rank =3,fontsize =31.7727, shape=box, style="rounded", color=black,label="43 ohio
+state
+magnus
+acs
+drugs
+ncr
+atlantaga
+wilson
+ncratl
+legal
+war
+ryan"]
+"2_36" -> "1_58" [penwidth=9.966,dir=forward]
+"1_58" [rank =3,fontsize =29.601, shape=box, style="rounded", color=black,label="58 ra
+semi
+revolver
+police
+auto
+safety
+gun
+uicvm
+uic
+kratz
+cops
+jason"]
+"2_36" -> "1_84" [penwidth=1.8262,dir=forward]
+"1_84" [rank =3,fontsize =27.3474, shape=box, style="rounded", color=black,label="84 insurance
+health
+private
+care
+canada
+coverage
+canadian
+hospital
+medical
+pay
+public
+national"]
+"2_36" -> "1_92" [penwidth=0.94594,dir=forward]
+"1_92" [rank =3,fontsize =27.1228, shape=box, style="rounded", color=black,label="92 weapons
+iastate
+dan
+nuclear
+viking
+sorenson
+destruction
+weapon
+homosexuality
+isu
+roehm
+unusual"]
+"2_36" -> "1_93" [penwidth=2.4032,dir=forward]
+"1_93" [rank =3,fontsize =27.1006, shape=box, style="rounded", color=black,label="93 water
+ti
+dseg
+dept
+mwra
+pyron
+skndiv
+cities
+city
+dillon
+heavy
+expressed"]
+"2_36" -> "1_130" [penwidth=0.94594,dir=forward]
+"1_130" [rank =3,fontsize =25.58, shape=box, style="rounded", color=black,label="130 mercury
+dubinski
+mu
+csd
+vms
+victor
+hex
+change
+rob
+editor
+info
+encoded"]
+"2_36" -> "1_131" [penwidth=0.94594,dir=forward]
+"1_131" [rank =3,fontsize =25.559, shape=box, style="rounded", color=black,label="131 tiff
+spec
+alice
+galki
+toppoint
+joachim
+number
+guide
+suggestions
+ulrich
+manchester
+king"]
+"2_36" -> "1_132" [penwidth=0.94594,dir=forward]
+"1_132" [rank =3,fontsize =25.5547, shape=box, style="rounded", color=black,label="132 greek
+greece
+turkish
+greeks
+cyprus
+minority
+uv
+turks
+turkey
+cypriot
+ethnic
+cypriots"]
+"2_36" -> "1_137" [penwidth=0.94594,dir=forward]
+"1_137" [rank =3,fontsize =25.3804, shape=box, style="rounded", color=black,label="137 alchemy
+utoronto
+chem
+gerald
+golchowy
+olchowy
+conclusive
+replays
+evidence
+ryevm
+ryerson
+french"]
+"2_36" -> "1_150" [penwidth=0.94594,dir=forward]
+"1_150" [rank =3,fontsize =24.8662, shape=box, style="rounded", color=black,label="150 motif
+linux
+bindings
+ruu
+bsd
+csn
+bu
+cv
+rick
+kirk
+announcement
+shearson"]
+"2_36" -> "1_152" [penwidth=1.588,dir=forward]
+"1_152" [rank =3,fontsize =24.8007, shape=box, style="rounded", color=black,label="152 pro
+angmar
+cosmo
+hunting
+deer
+uucp
+uunet
+alfalfa
+bu
+proline
+alphalpha
+nathan"]
+"2_36" -> "1_153" [penwidth=2.0368,dir=forward]
+"1_153" [rank =3,fontsize =24.7407, shape=box, style="rounded", color=black,label="153 tanks
+detroit
+main
+fired
+awesley
+bull
+claim
+guns
+sniper
+caldwell
+firing
+army"]
+"2_36" -> "1_169" [penwidth=0.94594,dir=forward]
+"1_169" [rank =3,fontsize =24.4399, shape=box, style="rounded", color=black,label="169 company
+bell
+amp
+current
+ampere
+named
+bel
+ohmite
+unit
+db
+sehari
+ohms"]
+"2_36" -> "1_180" [penwidth=0.94594,dir=forward]
+"1_180" [rank =3,fontsize =24.2792, shape=box, style="rounded", color=black,label="180 acidophilous
+thrush
+outbreaks
+taking
+astemizole
+gain
+linked
+resumed
+hismanal
+mccurdy
+sdsu
+ucsvax"]
+"2_36" -> "1_190" [penwidth=0.94594,dir=forward]
+"1_190" [rank =3,fontsize =24.0992, shape=box, style="rounded", color=black,label="190 zisfein
+polio
+jim
+dn
+jl
+factory
+motor
+slmr
+headache
+gb
+assignment
+pps"]
+"2_36" -> "1_192" [penwidth=0.94594,dir=forward]
+"1_192" [rank =3,fontsize =23.9578, shape=box, style="rounded", color=black,label="192 cmuvm
+aej
+bitnet
+slaughter
+hoped
+cnn
+god
+nazis
+buildings
+wrong
+stove
+repeat"]
+"2_36" -> "1_207" [penwidth=0.94594,dir=forward]
+"1_207" [rank =3,fontsize =23.6956, shape=box, style="rounded", color=black,label="207 ntu
+sg
+max
+ntuvax
+ac
+handling
+comment
+pls
+kindly
+ican
+handson
+experience"]
+"2_36" -> "1_351" [penwidth=0.94594,dir=forward]
+"1_351" [rank =3,fontsize =21.2474, shape=box, style="rounded", color=black,label="351 lone
+harvest
+archive
+atheism
+resources
+alt
+modified
+december
+version
+atheist
+addresses
+organizations"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_23" "1_26" "1_39" "1_58" "1_60" "1_61" "1_76" "1_92" "1_138" "1_186" "1_201" "1_1" "1_16" "1_43" "1_58" "1_84" "1_92" "1_93" "1_130" "1_131" "1_132" "1_137" "1_150" "1_152" "1_153" "1_169" "1_180" "1_190" "1_192" "1_207" "1_351"}{rank=same; "2_14" "2_36" "2_14" "2_36"}{rank=same; "3_13"}{rank=same;}{rank=same;}}

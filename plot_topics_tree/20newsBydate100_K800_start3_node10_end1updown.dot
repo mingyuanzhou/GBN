@@ -1,0 +1,222 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_10" [ rank =3,fontsize =46.988, shape=box, style="rounded", color=orange, label="10 window thanks widget application
+using display available program
+mail server set software"]
+"3_10" -> "2_9" [penwidth=14.9202,dir=forward]
+"2_9" [rank =4,fontsize =47.6786, shape=box, style="rounded", color=blue,label="9 window thanks widget application
+using display available program
+mail server set software"]
+"2_9" [ rank =2,fontsize =47.6786, shape=box, style="rounded", color=blue, label="9 window thanks widget application
+using display available program
+mail server set software"]
+"2_9" -> "1_1" [penwidth=6.6038,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_9" -> "1_2" [penwidth=3.3623,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_9" -> "1_3" [penwidth=5.2544,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_9" -> "1_6" [penwidth=6.9847,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_9" -> "1_18" [penwidth=8.3153,dir=forward]
+"1_18" [rank =3,fontsize =37.2946, shape=box, style="rounded", color=black,label="18 window
+widget
+application
+display
+manager
+set
+using
+problem
+visual
+color
+value
+xlib"]
+"2_9" -> "1_39" [penwidth=1.1582,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_9" -> "1_56" [penwidth=0.83332,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_9" -> "1_68" [penwidth=2.1088,dir=forward]
+"1_68" [rank =3,fontsize =28.7361, shape=box, style="rounded", color=black,label="68 xterm
+keyboard
+key
+echo
+keys
+title
+host
+set
+keycode
+sequences
+ff
+hostname"]
+"2_9" -> "1_74" [penwidth=1.9046,dir=forward]
+"1_74" [rank =3,fontsize =28.2343, shape=box, style="rounded", color=black,label="74 lib
+libxmu
+xmu
+ld
+symbol
+undefined
+doug
+usr
+imake
+problem
+sunos
+error"]
+"2_9" -> "1_106" [penwidth=0.77984,dir=forward]
+"1_106" [rank =3,fontsize =26.6045, shape=box, style="rounded", color=black,label="106 navy
+mil
+virtual
+dt
+reality
+nswc
+oasys
+bethesda
+scientific
+presentations
+visualization
+seminar"]
+"2_9" -> "1_116" [penwidth=1.3151,dir=forward]
+"1_116" [rank =3,fontsize =26.203, shape=box, style="rounded", color=black,label="116 memory
+mit
+server
+shared
+xputimage
+uk
+ac
+cam
+sunview
+derek
+ast
+mail"]
+"2_9" -> "1_124" [penwidth=1.1767,dir=forward]
+"1_124" [rank =3,fontsize =25.9051, shape=box, style="rounded", color=black,label="124 gl
+gerard
+xmdrawingarea
+pyeatt
+graham
+dps
+jade
+texaco
+driscoll
+sgi
+calls
+du"]
+"2_9" -> "1_127" [penwidth=0.85881,dir=forward]
+"1_127" [rank =3,fontsize =25.8387, shape=box, style="rounded", color=black,label="127 output
+file
+entry
+program
+printf
+oname
+eof
+char
+stream
+ok
+buf
+check"]
+"2_9" -> "1_142" [penwidth=1.0195,dir=forward]
+"1_142" [rank =3,fontsize =25.21, shape=box, style="rounded", color=black,label="142 expose
+item
+event
+whaley
+handler
+mapped
+new
+kpc
+graphics
+buzz
+xcopyarea
+contains"]
+"2_9" -> "1_145" [penwidth=0.97632,dir=forward]
+"1_145" [rank =3,fontsize =25.0362, shape=box, style="rounded", color=black,label="145 andre
+beck
+dresden
+inf
+abpsoft
+mehl
+irs
+brain
+xdefaults
+inside
+wscrawl
+tu"]
+"2_9" -> "1_162" [penwidth=0.90764,dir=forward]
+"1_162" [rank =3,fontsize =24.6173, shape=box, style="rounded", color=black,label="162 tgv
+mahan
+lazarus
+long
+patrick
+decnet
+xdm
+person
+capital
+crime
+unnecessarily
+offense"]
+{rank=same; "1_1" "1_2" "1_3" "1_6" "1_18" "1_39" "1_56" "1_68" "1_74" "1_106" "1_116" "1_124" "1_127" "1_142" "1_145" "1_162"}{rank=same; "2_9" "2_9"}{rank=same; "3_10"}{rank=same;}{rank=same;}}

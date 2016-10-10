@@ -1,0 +1,222 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_30" [ rank =3,fontsize =40.911, shape=box, style="rounded", color=orange, label="30 turkish armenian armenians turks
+armenia turkey government genocide
+soviet said today new"]
+"3_30" -> "2_32" [penwidth=14.8332,dir=forward]
+"2_32" [rank =4,fontsize =41.5821, shape=box, style="rounded", color=blue,label="32 turkish armenian armenians turks
+armenia turkey genocide government
+soviet said today new"]
+"2_32" [ rank =2,fontsize =41.5821, shape=box, style="rounded", color=blue, label="32 turkish armenian armenians turks
+armenia turkey genocide government
+soviet said today new"]
+"2_32" -> "1_1" [penwidth=6.0079,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_32" -> "1_2" [penwidth=3.5054,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_32" -> "1_7" [penwidth=4.3712,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_32" -> "1_14" [penwidth=3.9385,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_32" -> "1_26" [penwidth=4.1976,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_32" -> "1_32" [penwidth=0.86969,dir=forward]
+"1_32" [rank =3,fontsize =33.7703, shape=box, style="rounded", color=black,label="32 israel
+israeli
+lebanese
+lebanon
+attacks
+peace
+arab
+israelis
+civilians
+killed
+palestinian
+soldiers"]
+"2_32" -> "1_34" [penwidth=9.8287,dir=forward]
+"1_34" [rank =3,fontsize =33.6645, shape=box, style="rounded", color=black,label="34 turkish
+armenian
+armenians
+turks
+armenia
+turkey
+genocide
+soviet
+today
+russian
+government
+war"]
+"2_32" -> "1_98" [penwidth=1.7642,dir=forward]
+"1_98" [rank =3,fontsize =26.9347, shape=box, style="rounded", color=black,label="98 bosnia
+arromdee
+jhu
+serbs
+somalia
+ken
+jyusenkyou
+muslims
+sides
+turkey
+ethnic
+intervention"]
+"2_32" -> "1_132" [penwidth=1.9319,dir=forward]
+"1_132" [rank =3,fontsize =25.5547, shape=box, style="rounded", color=black,label="132 greek
+greece
+turkish
+greeks
+cyprus
+minority
+uv
+turks
+turkey
+cypriot
+ethnic
+cypriots"]
+"2_32" -> "1_143" [penwidth=1.0022,dir=forward]
+"1_143" [rank =3,fontsize =25.1701, shape=box, style="rounded", color=black,label="143 henrik
+bm
+armenia
+armenians
+azeris
+cyprus
+turkey
+karabakh
+turkish
+kpc
+turks
+conflict"]
+"2_32" -> "1_148" [penwidth=1.2745,dir=forward]
+"1_148" [rank =3,fontsize =24.9013, shape=box, style="rounded", color=black,label="148 planes
+onur
+yalcin
+armenians
+armenia
+henrik
+announced
+weapons
+oy
+homeland
+azerbadjan
+karabakh"]
+"2_32" -> "1_160" [penwidth=1.8995,dir=forward]
+"1_160" [rank =3,fontsize =24.6534, shape=box, style="rounded", color=black,label="160 sdpa
+davidian
+book
+urartu
+yalanci
+published
+page
+pages
+forged
+argic
+serdar
+quotes"]
+"2_32" -> "1_198" [penwidth=1.3222,dir=forward]
+"1_198" [rank =3,fontsize =23.8635, shape=box, style="rounded", color=black,label="198 nazi
+german
+hitler
+nazis
+chancellor
+ss
+himmler
+indians
+dodd
+translation
+kastner
+party"]
+"2_32" -> "1_212" [penwidth=1.1732,dir=forward]
+"1_212" [rank =3,fontsize =23.5255, shape=box, style="rounded", color=black,label="212 anania
+persian
+problems
+shirak
+problem
+persians
+orbeli
+prince
+famous
+ancient
+troops
+fourth"]
+"2_32" -> "1_251" [penwidth=1.0022,dir=forward]
+"1_251" [rank =3,fontsize =22.8801, shape=box, style="rounded", color=black,label="251 istanbul
+ermeni
+ankara
+ed
+osmanli
+turk
+office
+hakkinda
+mezalimi
+ermeniler
+askeri
+nun"]
+"2_32" -> "1_259" [penwidth=1.0022,dir=forward]
+"1_259" [rank =3,fontsize =22.7074, shape=box, style="rounded", color=black,label="259 kk
+translation
+kubilay
+kultigin
+suat
+politics
+strongest
+carleton
+fatherland
+filth
+souls
+bu"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_26" "1_32" "1_34" "1_98" "1_132" "1_143" "1_148" "1_160" "1_198" "1_212" "1_251" "1_259"}{rank=same; "2_32" "2_32"}{rank=same; "3_30"}{rank=same;}{rank=same;}}

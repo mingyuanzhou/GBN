@@ -1,0 +1,111 @@
+digraph G {
+ranksep=4; ratio = "auto"; layers="1:2:3:4:5";
+"1_9" [rank =2,fontsize =40.0639, shape=box, style="rounded", label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"1_19" [rank =2,fontsize =37.284, shape=box, style="rounded", label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"1_29" [rank =2,fontsize =34.8557, shape=box, style="rounded", label="29 objective
+morality
+moral
+keith
+frank
+values
+livesey
+jon
+caltech
+sgi
+murder
+natural"]
+"1_39" [rank =2,fontsize =32.2729, shape=box, style="rounded", label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"1_49" [rank =2,fontsize =31.135, shape=box, style="rounded", label="49 anonymous
+internet
+privacy
+email
+posting
+usenet
+mail
+information
+eff
+anonymity
+users
+pub"]
+"1_59" [rank =2,fontsize =29.5996, shape=box, style="rounded", label="59 au
+australia
+oz
+mark
+philips
+canberra
+melbourne
+qdeck
+uwa
+quarterdeck
+network
+prl"]
+"1_69" [rank =2,fontsize =28.6849, shape=box, style="rounded", label="69 graphics
+group
+ch
+comp
+umich
+split
+aspects
+groups
+engin
+radiosity
+grafsys
+hidden"]
+"1_79" [rank =2,fontsize =27.7548, shape=box, style="rounded", label="79 sgi
+upgrade
+graphics
+silicon
+ucsd
+demers
+product
+diego
+iw
+path
+sales
+customers"]
+"1_89" [rank =2,fontsize =27.2109, shape=box, style="rounded", label="89 health
+aids
+hiv
+medical
+cancer
+number
+april
+tobacco
+hicnet
+volume
+newsletter
+children"]
+{rank=same; "1_9" "1_19" "1_29" "1_39" "1_49" "1_59" "1_69" "1_79" "1_89"}{rank=same;}{rank=same;}{rank=same;}{rank=same;}}

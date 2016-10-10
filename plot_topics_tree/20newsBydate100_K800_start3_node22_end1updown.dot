@@ -1,0 +1,170 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_22" [ rank =3,fontsize =43.1058, shape=box, style="rounded", color=orange, label="22 new sale shipping thanks
+mail offer price condition
+email interested asking best"]
+"3_22" -> "2_25" [penwidth=14.7368,dir=forward]
+"2_25" [rank =4,fontsize =43.6507, shape=box, style="rounded", color=blue,label="25 new sale shipping thanks
+mail offer price condition
+email interested asking sell"]
+"2_25" [ rank =2,fontsize =43.6507, shape=box, style="rounded", color=blue, label="25 new sale shipping thanks
+mail offer price condition
+email interested asking sell"]
+"2_25" -> "1_2" [penwidth=2.6175,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_25" -> "1_3" [penwidth=6.6269,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_25" -> "1_7" [penwidth=4.3591,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_25" -> "1_9" [penwidth=4.4403,dir=forward]
+"1_9" [rank =3,fontsize =40.0639, shape=box, style="rounded", color=black,label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"2_25" -> "1_12" [penwidth=10.5016,dir=forward]
+"1_12" [rank =3,fontsize =39.1159, shape=box, style="rounded", color=black,label="12 sale
+new
+shipping
+offer
+condition
+price
+asking
+sell
+cover
+cd
+interested
+best"]
+"2_25" -> "1_15" [penwidth=1.3965,dir=forward]
+"1_15" [rank =3,fontsize =38.2102, shape=box, style="rounded", color=black,label="15 bike
+dod
+ride
+bikes
+riding
+motorcycle
+sun
+left
+road
+bnr
+ama
+honda"]
+"2_25" -> "1_26" [penwidth=1.3965,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_25" -> "1_39" [penwidth=1.5687,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_25" -> "1_51" [penwidth=1.9724,dir=forward]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"2_25" -> "1_83" [penwidth=0.7892,dir=forward]
+"1_83" [rank =3,fontsize =27.4759, shape=box, style="rounded", color=black,label="83 radar
+detector
+detectors
+police
+car
+beam
+illegal
+antenna
+radio
+virginia
+law
+band"]
+"2_25" -> "1_112" [penwidth=1.9981,dir=forward]
+"1_112" [rank =3,fontsize =26.2961, shape=box, style="rounded", color=black,label="112 package
+hiram
+hotel
+college
+kids
+hirama
+job
+kou
+minimum
+douglas
+city
+inner"]
+"2_25" -> "1_170" [penwidth=1.0646,dir=forward]
+"1_170" [rank =3,fontsize =24.4393, shape=box, style="rounded", color=black,label="170 run
+rally
+annual
+jul
+ww
+mm
+mc
+th
+jun
+tour
+sep
+oct"]
+{rank=same; "1_2" "1_3" "1_7" "1_9" "1_12" "1_15" "1_26" "1_39" "1_51" "1_83" "1_112" "1_170"}{rank=same; "2_25" "2_25"}{rank=same; "3_22"}{rank=same;}{rank=same;}}

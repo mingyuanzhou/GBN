@@ -1,0 +1,196 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_17" [ rank =3,fontsize =45.0478, shape=box, style="rounded", color=orange, label="17 space nasa new gov
+work henry long doesn
+said believe let ll"]
+"3_17" -> "2_11" [penwidth=14.8232,dir=forward]
+"2_11" [rank =4,fontsize =47.3234, shape=box, style="rounded", color=blue,label="11 space nasa new gov
+work henry long doesn
+believe said let ll"]
+"2_11" [ rank =2,fontsize =47.3234, shape=box, style="rounded", color=blue, label="11 space nasa new gov
+work henry long doesn
+believe said let ll"]
+"2_11" -> "1_1" [penwidth=8.9364,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_11" -> "1_2" [penwidth=7.4167,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_11" -> "1_22" [penwidth=4.2869,dir=forward]
+"1_22" [rank =3,fontsize =36.1439, shape=box, style="rounded", color=black,label="22 space
+nasa
+earth
+orbit
+gov
+data
+shuttle
+mission
+lunar
+spacecraft
+solar
+jpl"]
+"2_11" -> "1_28" [penwidth=4.6525,dir=forward]
+"1_28" [rank =3,fontsize =34.9684, shape=box, style="rounded", color=black,label="28 nasa
+space
+cost
+gov
+station
+pat
+research
+jsc
+dc
+moon
+launch
+program"]
+"2_11" -> "1_41" [penwidth=3.9302,dir=forward]
+"1_41" [rank =3,fontsize =31.8945, shape=box, style="rounded", color=black,label="41 henry
+toronto
+zoo
+spencer
+work
+utzoo
+zoology
+man
+umd
+kipling
+eng
+allen"]
+"2_11" -> "1_45" [penwidth=1.7621,dir=forward]
+"1_45" [rank =3,fontsize =31.532, shape=box, style="rounded", color=black,label="45 uiuc
+cso
+uxa
+ux
+illinois
+urbana
+josh
+manta
+cka
+hopkins
+champaign
+amin"]
+"2_11" -> "1_48" [penwidth=3.4409,dir=forward]
+"1_48" [rank =3,fontsize =31.3763, shape=box, style="rounded", color=black,label="48 alaska
+nsmca
+space
+aurora
+moon
+gene
+adams
+acad
+raider
+jacked
+net
+billion"]
+"2_11" -> "1_66" [penwidth=2.2282,dir=forward]
+"1_66" [rank =3,fontsize =28.7847, shape=box, style="rounded", color=black,label="66 fred
+software
+ti
+mccall
+dseg
+nick
+level
+process
+mksol
+negev
+bedouin
+safety"]
+"2_11" -> "1_93" [penwidth=1.0904,dir=forward]
+"1_93" [rank =3,fontsize =27.1006, shape=box, style="rounded", color=black,label="93 water
+ti
+dseg
+dept
+mwra
+pyron
+skndiv
+cities
+city
+dillon
+heavy
+expressed"]
+"2_11" -> "1_107" [penwidth=0.98166,dir=forward]
+"1_107" [rank =3,fontsize =26.5751, shape=box, style="rounded", color=black,label="107 drugs
+iastate
+gordian
+arf
+genesis
+mcs
+beach
+schmidling
+jrbeach
+jeffry
+safer
+jack"]
+"2_11" -> "1_114" [penwidth=0.98166,dir=forward]
+"1_114" [rank =3,fontsize =26.2843, shape=box, style="rounded", color=black,label="114 rockets
+engines
+rocketry
+mancus
+rocket
+prize
+feet
+backers
+model
+faa
+accelerations
+ad"]
+"2_11" -> "1_118" [penwidth=1.2128,dir=forward]
+"1_118" [rank =3,fontsize =26.1775, shape=box, style="rounded", color=black,label="118 centaur
+proton
+calpoly
+jgreen
+green
+james
+stage
+trumpet
+require
+comm
+zeus
+combo"]
+"2_11" -> "1_161" [penwidth=0.92247,dir=forward]
+"1_161" [rank =3,fontsize =24.645, shape=box, style="rounded", color=black,label="161 gehrels
+sq
+jupiter
+msb
+radii
+observatory
+brader
+au
+project
+information
+gamma
+neil"]
+"2_11" -> "1_189" [penwidth=0.79091,dir=forward]
+"1_189" [rank =3,fontsize =24.108, shape=box, style="rounded", color=black,label="189 gary
+ke
+zv
+lunar
+moon
+luna
+base
+uucp
+commercial
+coffman
+larger
+military"]
+{rank=same; "1_1" "1_2" "1_22" "1_28" "1_41" "1_45" "1_48" "1_66" "1_93" "1_107" "1_114" "1_118" "1_161" "1_189"}{rank=same; "2_11" "2_11"}{rank=same; "3_17"}{rank=same;}{rank=same;}}

@@ -1,0 +1,250 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_11" [ rank =5,fontsize =45.4491, shape=box, style="rounded", color=red, label="11 car bike new cars
+dod engine got road
+said ll miles ride"]
+"5_11" -> "4_2" [penwidth=14.3684,dir=forward]
+"4_2" [rank =6,fontsize =49.5216, shape=box, style="rounded", color=green,label="2 car bike new cars
+dod engine got road
+miles ride said ll"]
+"4_2" [ rank =4,fontsize =49.5216, shape=box, style="rounded", color=green, label="2 car bike new cars
+dod engine got road
+miles ride said ll"]
+"4_2" -> "3_4" [penwidth=11.1773,dir=forward]
+"3_4" [rank =5,fontsize =48.3403, shape=box, style="rounded", color=orange,label="4 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"4_2" -> "3_9" [penwidth=9.9568,dir=forward]
+"3_9" [rank =5,fontsize =47.1522, shape=box, style="rounded", color=orange,label="9 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"3_4" [ rank =3,fontsize =48.3403, shape=box, style="rounded", color=orange, label="4 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"3_4" -> "2_3" [penwidth=14.9536,dir=forward]
+"2_3" [rank =4,fontsize =49.0955, shape=box, style="rounded", color=blue,label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" [ rank =2,fontsize =49.0955, shape=box, style="rounded", color=blue, label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" -> "1_1" [penwidth=8.3258,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_3" -> "1_2" [penwidth=4.5911,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_3" -> "1_3" [penwidth=3.3888,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_3" -> "1_7" [penwidth=2.0837,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_3" -> "1_9" [penwidth=9.9887,dir=forward]
+"1_9" [rank =3,fontsize =40.0639, shape=box, style="rounded", color=black,label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"2_3" -> "1_61" [penwidth=1.8797,dir=forward]
+"1_61" [rank =3,fontsize =29.4344, shape=box, style="rounded", color=black,label="61 callison
+uoknor
+james
+car
+ecn
+lights
+uokmax
+fake
+bird
+continental
+alarm
+slb"]
+"2_3" -> "1_65" [penwidth=1.9152,dir=forward]
+"1_65" [rank =3,fontsize =28.8508, shape=box, style="rounded", color=black,label="65 speed
+car
+drive
+manual
+drivers
+traffic
+cars
+fuel
+automatic
+auto
+lane
+shift"]
+"3_9" [ rank =3,fontsize =47.1522, shape=box, style="rounded", color=orange, label="9 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"3_9" -> "2_8" [penwidth=14.8659,dir=forward]
+"2_8" [rank =4,fontsize =47.8012, shape=box, style="rounded", color=blue,label="8 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"2_8" [ rank =2,fontsize =47.8012, shape=box, style="rounded", color=blue, label="8 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"2_8" -> "1_1" [penwidth=7.7633,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_8" -> "1_2" [penwidth=6.1802,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_8" -> "1_3" [penwidth=1.9109,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_8" -> "1_15" [penwidth=9.2449,dir=forward]
+"1_15" [rank =3,fontsize =38.2102, shape=box, style="rounded", color=black,label="15 bike
+dod
+ride
+bikes
+riding
+motorcycle
+sun
+left
+road
+bnr
+ama
+honda"]
+"2_8" -> "1_26" [penwidth=2.1836,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_8" -> "1_44" [penwidth=3.6203,dir=forward]
+"1_44" [rank =3,fontsize =31.7562, shape=box, style="rounded", color=black,label="44 dod
+bmw
+ride
+motorcycle
+shaft
+rider
+motorcycles
+rec
+denizens
+club
+level
+list"]
+"2_8" -> "1_75" [penwidth=1.959,dir=forward]
+"1_75" [rank =3,fontsize =28.2286, shape=box, style="rounded", color=black,label="75 behanna
+nec
+nj
+lock
+syl
+chris
+dod
+cb
+pack
+bike
+ll
+wide"]
+"2_8" -> "1_100" [penwidth=1.5081,dir=forward]
+"1_100" [rank =3,fontsize =26.8906, shape=box, style="rounded", color=black,label="100 ryan
+cousineau
+dog
+nmm
+stafford
+compdyn
+questor
+bike
+winona
+springer
+vancouver
+bc"]
+"2_8" -> "1_119" [penwidth=1.3241,dir=forward]
+"1_119" [rank =3,fontsize =26.1342, shape=box, style="rounded", color=black,label="119 helmet
+eskimo
+shoei
+mavenry
+norman
+size
+head
+maven
+altcit
+paint
+passenger
+helmets"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_9" "1_61" "1_65" "1_1" "1_2" "1_3" "1_15" "1_26" "1_44" "1_75" "1_100" "1_119"}{rank=same; "2_3" "2_3" "2_8" "2_8"}{rank=same; "3_4" "3_9" "3_4" "3_9"}{rank=same; "4_2" "4_2"}{rank=same; "5_11"}}

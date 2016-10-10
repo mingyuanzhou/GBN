@@ -1,0 +1,838 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_8" [ rank =5,fontsize =46.4597, shape=box, style="rounded", color=red, label="8 god jesus christian bible
+believe christ christians life
+new church said man"]
+"5_8" -> "4_5" [penwidth=5.3165,dir=forward]
+"4_5" [rank =6,fontsize =47.3096, shape=box, style="rounded", color=green,label="5 god jesus believe christian
+bible true question said
+life christians faith religion"]
+"5_8" -> "4_8" [penwidth=12.0235,dir=forward]
+"4_8" [rank =6,fontsize =45.8721, shape=box, style="rounded", color=green,label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"5_8" -> "4_23" [penwidth=5.1175,dir=forward]
+"4_23" [rank =6,fontsize =40.9209, shape=box, style="rounded", color=green,label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_5" [ rank =4,fontsize =47.3096, shape=box, style="rounded", color=green, label="5 god jesus believe christian
+bible true question said
+life christians faith religion"]
+"4_5" -> "3_3" [penwidth=14.1555,dir=forward]
+"3_3" [rank =5,fontsize =48.4599, shape=box, style="rounded", color=orange,label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"4_5" -> "3_33" [penwidth=4.8346,dir=forward]
+"3_33" [rank =5,fontsize =39.4869, shape=box, style="rounded", color=orange,label="33 islam islamic muslims muslim
+jaeger gregg au qur
+monash bu women rushdie"]
+"3_3" [ rank =3,fontsize =48.4599, shape=box, style="rounded", color=orange, label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"3_3" -> "2_5" [penwidth=10.9848,dir=forward]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"3_3" -> "2_17" [penwidth=10.1637,dir=forward]
+"2_17" [rank =4,fontsize =45.6348, shape=box, style="rounded", color=blue,label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"2_5" -> "1_1" [penwidth=8.7148,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_5" -> "1_2" [penwidth=5.5705,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_5" -> "1_4" [penwidth=9.8213,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_5" -> "1_55" [penwidth=1.5769,dir=forward]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"2_5" -> "1_64" [penwidth=1.6528,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"2_5" -> "1_101" [penwidth=1.3347,dir=forward]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_17" [ rank =2,fontsize =45.6348, shape=box, style="rounded", color=blue, label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_17" -> "1_1" [penwidth=8.6385,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_17" -> "1_2" [penwidth=5.2765,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_17" -> "1_14" [penwidth=2.1241,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_17" -> "1_19" [penwidth=9.2158,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_17" -> "1_39" [penwidth=1.631,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_17" -> "1_63" [penwidth=2.9089,dir=forward]
+"1_63" [rank =3,fontsize =29.2582, shape=box, style="rounded", color=black,label="63 rit
+isc
+ultb
+bobby
+mozumder
+snm
+religious
+religion
+eric
+mom
+atheist
+men"]
+"2_17" -> "1_70" [penwidth=2.345,dir=forward]
+"1_70" [rank =3,fontsize =28.4291, shape=box, style="rounded", color=black,label="70 umd
+wam
+mangoe
+wingate
+charley
+text
+peace
+luke
+revelation
+kmr
+matthew
+po"]
+"2_17" -> "1_88" [penwidth=1.3854,dir=forward]
+"1_88" [rank =3,fontsize =27.2275, shape=box, style="rounded", color=black,label="88 truth
+absolute
+absolutes
+scripture
+christians
+truths
+arrogant
+true
+arrogance
+bible
+believe
+claim"]
+"3_33" [ rank =3,fontsize =39.4869, shape=box, style="rounded", color=orange, label="33 islam islamic muslims muslim
+jaeger gregg au qur
+monash bu women rushdie"]
+"3_33" -> "2_34" [penwidth=14.2852,dir=forward]
+"2_34" [rank =4,fontsize =39.9446, shape=box, style="rounded", color=blue,label="34 islam islamic muslims muslim
+jaeger gregg au qur
+monash bu rushdie women"]
+"2_34" [ rank =2,fontsize =39.9446, shape=box, style="rounded", color=blue, label="34 islam islamic muslims muslim
+jaeger gregg au qur
+monash bu rushdie women"]
+"2_34" -> "1_1" [penwidth=7.4505,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_34" -> "1_2" [penwidth=4.7407,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_34" -> "1_14" [penwidth=4.5836,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_34" -> "1_19" [penwidth=2.7978,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_34" -> "1_25" [penwidth=1.344,dir=forward]
+"1_25" [rank =3,fontsize =35.5789, shape=box, style="rounded", color=black,label="25 jews
+israel
+israeli
+jewish
+arab
+arabs
+land
+center
+policy
+anti
+research
+palestine"]
+"2_34" -> "1_38" [penwidth=10.0456,dir=forward]
+"1_38" [rank =3,fontsize =32.4724, shape=box, style="rounded", color=black,label="38 islam
+islamic
+muslims
+muslim
+jaeger
+gregg
+qur
+monash
+bu
+au
+rushdie
+women"]
+"2_34" -> "1_39" [penwidth=1.4601,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_34" -> "1_64" [penwidth=1.4601,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"4_8" [ rank =4,fontsize =45.8721, shape=box, style="rounded", color=green, label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"4_8" -> "3_8" [penwidth=14.7841,dir=forward]
+"3_8" [rank =5,fontsize =47.2996, shape=box, style="rounded", color=orange,label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"3_8" [ rank =3,fontsize =47.2996, shape=box, style="rounded", color=orange, label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"3_8" -> "2_5" [penwidth=10.2222,dir=forward]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"3_8" -> "2_20" [penwidth=10.8519,dir=forward]
+"2_20" [rank =4,fontsize =45.0816, shape=box, style="rounded", color=blue,label="20 god jesus church christian
+bible christ christians believe
+law life faith new"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_20" [ rank =2,fontsize =45.0816, shape=box, style="rounded", color=blue, label="20 god jesus church christian
+bible christ christians believe
+law life faith new"]
+"2_20" -> "1_1" [penwidth=7.4565,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_20" -> "1_3" [penwidth=2.3204,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_20" -> "1_4" [penwidth=8.8584,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_20" -> "1_7" [penwidth=4.4242,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_20" -> "1_14" [penwidth=2.6465,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_20" -> "1_19" [penwidth=2.8922,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_20" -> "1_26" [penwidth=2.2639,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_20" -> "1_40" [penwidth=5.2234,dir=forward]
+"1_40" [rank =3,fontsize =32.1842, shape=box, style="rounded", color=black,label="40 church
+law
+catholic
+pope
+holy
+father
+sabbath
+worship
+paul
+son
+spirit
+sunday"]
+"2_20" -> "1_55" [penwidth=2.1614,dir=forward]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"2_20" -> "1_109" [penwidth=1.8373,dir=forward]
+"1_109" [rank =3,fontsize =26.4759, shape=box, style="rounded", color=black,label="109 marriage
+married
+ceremony
+couple
+marry
+divorce
+commitment
+eyes
+church
+wedding
+priest
+civil"]
+"4_23" [ rank =4,fontsize =40.9209, shape=box, style="rounded", color=green, label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_23" -> "3_3" [penwidth=3.9129,dir=forward]
+"3_3" [rank =5,fontsize =48.4599, shape=box, style="rounded", color=orange,label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"4_23" -> "3_27" [penwidth=13.745,dir=forward]
+"3_27" [rank =5,fontsize =41.727, shape=box, style="rounded", color=orange,label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_3" [ rank =3,fontsize =48.4599, shape=box, style="rounded", color=orange, label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"2_17" [rank =4,fontsize =45.6348, shape=box, style="rounded", color=blue,label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_17" [ rank =2,fontsize =45.6348, shape=box, style="rounded", color=blue, label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"1_63" [rank =3,fontsize =29.2582, shape=box, style="rounded", color=black,label="63 rit
+isc
+ultb
+bobby
+mozumder
+snm
+religious
+religion
+eric
+mom
+atheist
+men"]
+"1_70" [rank =3,fontsize =28.4291, shape=box, style="rounded", color=black,label="70 umd
+wam
+mangoe
+wingate
+charley
+text
+peace
+luke
+revelation
+kmr
+matthew
+po"]
+"1_88" [rank =3,fontsize =27.2275, shape=box, style="rounded", color=black,label="88 truth
+absolute
+absolutes
+scripture
+christians
+truths
+arrogant
+true
+arrogance
+bible
+believe
+claim"]
+"3_27" [ rank =3,fontsize =41.727, shape=box, style="rounded", color=orange, label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_27" -> "2_29" [penwidth=14.5401,dir=forward]
+"2_29" [rank =4,fontsize =42.4406, shape=box, style="rounded", color=blue,label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" [ rank =2,fontsize =42.4406, shape=box, style="rounded", color=blue, label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" -> "1_1" [penwidth=7.8532,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_29" -> "1_2" [penwidth=6.2188,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_29" -> "1_14" [penwidth=5.1168,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_29" -> "1_33" [penwidth=8.9837,dir=forward]
+"1_33" [rank =3,fontsize =33.7531, shape=box, style="rounded", color=black,label="33 cramer
+men
+gay
+homosexual
+optilink
+sexual
+clayton
+sex
+homosexuals
+homosexuality
+male
+virginia"]
+"2_29" -> "1_103" [penwidth=1.3395,dir=forward]
+"1_103" [rank =3,fontsize =26.794, shape=box, style="rounded", color=black,label="103 government
+isc
+br
+thor
+steveh
+hendricks
+steve
+libertarians
+regulation
+libertarian
+free
+uucp"]
+{rank=same; "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_2" "1_14" "1_19" "1_39" "1_63" "1_70" "1_88" "1_1" "1_2" "1_14" "1_19" "1_25" "1_38" "1_39" "1_64" "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_3" "1_4" "1_7" "1_14" "1_19" "1_26" "1_40" "1_55" "1_109" "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_2" "1_14" "1_19" "1_39" "1_63" "1_70" "1_88" "1_1" "1_2" "1_14" "1_33" "1_103"}{rank=same; "2_5" "2_17" "2_5" "2_17" "2_34" "2_34" "2_5" "2_20" "2_5" "2_20" "2_5" "2_17" "2_5" "2_17" "2_29" "2_29"}{rank=same; "3_3" "3_33" "3_3" "3_33" "3_8" "3_8" "3_3" "3_27" "3_3" "3_27"}{rank=same; "4_5" "4_8" "4_23" "4_5" "4_8" "4_23"}{rank=same; "5_8"}}

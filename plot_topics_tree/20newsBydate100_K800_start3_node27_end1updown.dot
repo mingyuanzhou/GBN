@@ -1,0 +1,470 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_27" [ rank =3,fontsize =41.727, shape=box, style="rounded", color=orange, label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_27" -> "2_28" [penwidth=2.4353,dir=forward]
+"2_28" [rank =4,fontsize =42.9959, shape=box, style="rounded", color=blue,label="28 law state government new
+said president mr rights
+states information public national"]
+"3_27" -> "2_29" [penwidth=14.5401,dir=forward]
+"2_29" [rank =4,fontsize =42.4406, shape=box, style="rounded", color=blue,label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"3_27" -> "2_35" [penwidth=2.2787,dir=forward]
+"2_35" [rank =4,fontsize =39.3271, shape=box, style="rounded", color=blue,label="35 ohio state magnus acs
+drugs ncr atlantaga netcom
+care steve wilson new"]
+"2_28" [ rank =2,fontsize =42.9959, shape=box, style="rounded", color=blue, label="28 law state government new
+said president mr rights
+states information public national"]
+"2_28" -> "1_1" [penwidth=7.1628,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_28" -> "1_4" [penwidth=1.9239,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_28" -> "1_7" [penwidth=7.4479,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_28" -> "1_14" [penwidth=7.0201,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_28" -> "1_26" [penwidth=3.8739,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_28" -> "1_47" [penwidth=4.6681,dir=forward]
+"1_47" [rank =3,fontsize =31.3843, shape=box, style="rounded", color=black,label="47 president
+mr
+stephanopoulos
+jobs
+said
+ms
+package
+myers
+secretary
+work
+working
+clinton"]
+"2_28" -> "1_48" [penwidth=0.85203,dir=forward]
+"1_48" [rank =3,fontsize =31.3763, shape=box, style="rounded", color=black,label="48 alaska
+nsmca
+space
+aurora
+moon
+gene
+adams
+acad
+raider
+jacked
+net
+billion"]
+"2_28" -> "1_49" [penwidth=1.0964,dir=forward]
+"1_49" [rank =3,fontsize =31.135, shape=box, style="rounded", color=black,label="49 anonymous
+internet
+privacy
+email
+posting
+usenet
+mail
+information
+eff
+anonymity
+users
+pub"]
+"2_28" -> "1_81" [penwidth=1.4266,dir=forward]
+"1_81" [rank =3,fontsize =27.6331, shape=box, style="rounded", color=black,label="81 sex
+child
+copy
+women
+children
+protection
+pregnancy
+depression
+abstinence
+sexual
+education
+sehari"]
+"2_28" -> "1_85" [penwidth=2.762,dir=forward]
+"1_85" [rank =3,fontsize =27.3413, shape=box, style="rounded", color=black,label="85 war
+iran
+jury
+farid
+energy
+bombing
+hussein
+iraq
+military
+iraqi
+bomb
+civilians"]
+"2_28" -> "1_98" [penwidth=0.98182,dir=forward]
+"1_98" [rank =3,fontsize =26.9347, shape=box, style="rounded", color=black,label="98 bosnia
+arromdee
+jhu
+serbs
+somalia
+ken
+jyusenkyou
+muslims
+sides
+turkey
+ethnic
+intervention"]
+"2_28" -> "1_105" [penwidth=1.9239,dir=forward]
+"1_105" [rank =3,fontsize =26.6179, shape=box, style="rounded", color=black,label="105 adl
+bullock
+san
+francisco
+police
+arens
+information
+anti
+league
+yigal
+files
+los"]
+"2_28" -> "1_141" [penwidth=1.5466,dir=forward]
+"1_141" [rank =3,fontsize =25.2111, shape=box, style="rounded", color=black,label="141 war
+south
+secret
+nuclear
+naval
+rockefeller
+military
+island
+georgia
+new
+ships
+navy"]
+"2_28" -> "1_182" [penwidth=0.77907,dir=forward]
+"1_182" [rank =3,fontsize =24.2465, shape=box, style="rounded", color=black,label="182 drink
+hours
+alcohol
+eskimo
+general
+rule
+drinks
+thumb
+cycling
+sobriety
+sober
+norman"]
+"2_29" [ rank =2,fontsize =42.4406, shape=box, style="rounded", color=blue, label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" -> "1_1" [penwidth=7.8532,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_29" -> "1_2" [penwidth=6.2188,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_29" -> "1_14" [penwidth=5.1168,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_29" -> "1_33" [penwidth=8.9837,dir=forward]
+"1_33" [rank =3,fontsize =33.7531, shape=box, style="rounded", color=black,label="33 cramer
+men
+gay
+homosexual
+optilink
+sexual
+clayton
+sex
+homosexuals
+homosexuality
+male
+virginia"]
+"2_29" -> "1_45" [penwidth=1.049,dir=forward]
+"1_45" [rank =3,fontsize =31.532, shape=box, style="rounded", color=black,label="45 uiuc
+cso
+uxa
+ux
+illinois
+urbana
+josh
+manta
+cka
+hopkins
+champaign
+amin"]
+"2_29" -> "1_52" [penwidth=0.89611,dir=forward]
+"1_52" [rank =3,fontsize =30.4967, shape=box, style="rounded", color=black,label="52 won
+lost
+san
+new
+kaldis
+rutgers
+york
+houston
+st
+astros
+louis
+reds"]
+"2_29" -> "1_81" [penwidth=1.302,dir=forward]
+"1_81" [rank =3,fontsize =27.6331, shape=box, style="rounded", color=black,label="81 sex
+child
+copy
+women
+children
+protection
+pregnancy
+depression
+abstinence
+sexual
+education
+sehari"]
+"2_29" -> "1_84" [penwidth=1.1823,dir=forward]
+"1_84" [rank =3,fontsize =27.3474, shape=box, style="rounded", color=black,label="84 insurance
+health
+private
+care
+canada
+coverage
+canadian
+hospital
+medical
+pay
+public
+national"]
+"2_29" -> "1_103" [penwidth=1.3395,dir=forward]
+"1_103" [rank =3,fontsize =26.794, shape=box, style="rounded", color=black,label="103 government
+isc
+br
+thor
+steveh
+hendricks
+steve
+libertarians
+regulation
+libertarian
+free
+uucp"]
+"2_29" -> "1_159" [penwidth=0.83897,dir=forward]
+"1_159" [rank =3,fontsize =24.6563, shape=box, style="rounded", color=black,label="159 white
+soldiers
+males
+strip
+school
+march
+army
+winning
+bank
+magnetic
+closure
+riggs"]
+"2_29" -> "1_193" [penwidth=0.83897,dir=forward]
+"1_193" [rank =3,fontsize =23.9509, shape=box, style="rounded", color=black,label="193 acns
+nwu
+casbah
+multiple
+douglas
+meier
+act
+crimes
+single
+charged
+bashing
+dmeier"]
+"2_35" [ rank =2,fontsize =39.3271, shape=box, style="rounded", color=blue, label="35 ohio state magnus acs
+drugs ncr atlantaga netcom
+care steve wilson new"]
+"2_35" -> "1_1" [penwidth=7.562,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_35" -> "1_2" [penwidth=7.2312,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_35" -> "1_14" [penwidth=1.3422,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_35" -> "1_19" [penwidth=0.83036,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_35" -> "1_29" [penwidth=0.95495,dir=forward]
+"1_29" [rank =3,fontsize =34.8557, shape=box, style="rounded", color=black,label="29 objective
+morality
+moral
+keith
+frank
+values
+livesey
+jon
+caltech
+sgi
+murder
+natural"]
+"2_35" -> "1_43" [penwidth=9.6318,dir=forward]
+"1_43" [rank =3,fontsize =31.7727, shape=box, style="rounded", color=black,label="43 ohio
+state
+magnus
+acs
+drugs
+ncr
+atlantaga
+wilson
+ncratl
+legal
+war
+ryan"]
+"2_35" -> "1_47" [penwidth=0.95495,dir=forward]
+"1_47" [rank =3,fontsize =31.3843, shape=box, style="rounded", color=black,label="47 president
+mr
+stephanopoulos
+jobs
+said
+ms
+package
+myers
+secretary
+work
+working
+clinton"]
+"2_35" -> "1_107" [penwidth=1.7709,dir=forward]
+"1_107" [rank =3,fontsize =26.5751, shape=box, style="rounded", color=black,label="107 drugs
+iastate
+gordian
+arf
+genesis
+mcs
+beach
+schmidling
+jrbeach
+jeffry
+safer
+jack"]
+"2_35" -> "1_258" [penwidth=1.1648,dir=forward]
+"1_258" [rank =3,fontsize =22.7285, shape=box, style="rounded", color=black,label="258 quayle
+booed
+incident
+cray
+recession
+dan
+gore
+rja
+hsh
+hemlock
+ceremonial
+thrower"]
+{rank=same; "1_1" "1_4" "1_7" "1_14" "1_26" "1_47" "1_48" "1_49" "1_81" "1_85" "1_98" "1_105" "1_141" "1_182" "1_1" "1_2" "1_14" "1_33" "1_45" "1_52" "1_81" "1_84" "1_103" "1_159" "1_193" "1_1" "1_2" "1_14" "1_19" "1_29" "1_43" "1_47" "1_107" "1_258"}{rank=same; "2_28" "2_29" "2_35" "2_28" "2_29" "2_35"}{rank=same; "3_27"}{rank=same;}{rank=same;}}

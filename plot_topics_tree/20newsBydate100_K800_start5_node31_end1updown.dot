@@ -1,0 +1,1005 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_31" [ rank =5,fontsize =34.4509, shape=box, style="rounded", color=red, label="31 car new god thanks
+mail said bike believe
+work ll got years"]
+"5_31" -> "4_2" [penwidth=9.2224,dir=forward]
+"4_2" [rank =6,fontsize =49.5216, shape=box, style="rounded", color=green,label="2 car bike new cars
+dod engine got road
+miles ride said ll"]
+"5_31" -> "4_4" [penwidth=4.905,dir=forward]
+"4_4" [rank =6,fontsize =47.9387, shape=box, style="rounded", color=green,label="4 thanks mail email information
+help fax software info
+advance looking new hi"]
+"5_31" -> "4_8" [penwidth=4.905,dir=forward]
+"4_8" [rank =6,fontsize =45.8721, shape=box, style="rounded", color=green,label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"5_31" -> "4_23" [penwidth=3.7273,dir=forward]
+"4_23" [rank =6,fontsize =40.9209, shape=box, style="rounded", color=green,label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_2" [ rank =4,fontsize =49.5216, shape=box, style="rounded", color=green, label="2 car bike new cars
+dod engine got road
+miles ride said ll"]
+"4_2" -> "3_4" [penwidth=11.1773,dir=forward]
+"3_4" [rank =5,fontsize =48.3403, shape=box, style="rounded", color=orange,label="4 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"4_2" -> "3_9" [penwidth=9.9568,dir=forward]
+"3_9" [rank =5,fontsize =47.1522, shape=box, style="rounded", color=orange,label="9 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"3_4" [ rank =3,fontsize =48.3403, shape=box, style="rounded", color=orange, label="4 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"3_4" -> "2_3" [penwidth=14.9536,dir=forward]
+"2_3" [rank =4,fontsize =49.0955, shape=box, style="rounded", color=blue,label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" [ rank =2,fontsize =49.0955, shape=box, style="rounded", color=blue, label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" -> "1_1" [penwidth=8.3258,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_3" -> "1_2" [penwidth=4.5911,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_3" -> "1_3" [penwidth=3.3888,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_3" -> "1_7" [penwidth=2.0837,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_3" -> "1_9" [penwidth=9.9887,dir=forward]
+"1_9" [rank =3,fontsize =40.0639, shape=box, style="rounded", color=black,label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"2_3" -> "1_61" [penwidth=1.8797,dir=forward]
+"1_61" [rank =3,fontsize =29.4344, shape=box, style="rounded", color=black,label="61 callison
+uoknor
+james
+car
+ecn
+lights
+uokmax
+fake
+bird
+continental
+alarm
+slb"]
+"2_3" -> "1_65" [penwidth=1.9152,dir=forward]
+"1_65" [rank =3,fontsize =28.8508, shape=box, style="rounded", color=black,label="65 speed
+car
+drive
+manual
+drivers
+traffic
+cars
+fuel
+automatic
+auto
+lane
+shift"]
+"3_9" [ rank =3,fontsize =47.1522, shape=box, style="rounded", color=orange, label="9 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"3_9" -> "2_8" [penwidth=14.8659,dir=forward]
+"2_8" [rank =4,fontsize =47.8012, shape=box, style="rounded", color=blue,label="8 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"2_8" [ rank =2,fontsize =47.8012, shape=box, style="rounded", color=blue, label="8 bike dod ride bikes
+riding motorcycle got sun
+left new said ll"]
+"2_8" -> "1_1" [penwidth=7.7633,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_8" -> "1_2" [penwidth=6.1802,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_8" -> "1_3" [penwidth=1.9109,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_8" -> "1_15" [penwidth=9.2449,dir=forward]
+"1_15" [rank =3,fontsize =38.2102, shape=box, style="rounded", color=black,label="15 bike
+dod
+ride
+bikes
+riding
+motorcycle
+sun
+left
+road
+bnr
+ama
+honda"]
+"2_8" -> "1_26" [penwidth=2.1836,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_8" -> "1_44" [penwidth=3.6203,dir=forward]
+"1_44" [rank =3,fontsize =31.7562, shape=box, style="rounded", color=black,label="44 dod
+bmw
+ride
+motorcycle
+shaft
+rider
+motorcycles
+rec
+denizens
+club
+level
+list"]
+"2_8" -> "1_75" [penwidth=1.959,dir=forward]
+"1_75" [rank =3,fontsize =28.2286, shape=box, style="rounded", color=black,label="75 behanna
+nec
+nj
+lock
+syl
+chris
+dod
+cb
+pack
+bike
+ll
+wide"]
+"2_8" -> "1_100" [penwidth=1.5081,dir=forward]
+"1_100" [rank =3,fontsize =26.8906, shape=box, style="rounded", color=black,label="100 ryan
+cousineau
+dog
+nmm
+stafford
+compdyn
+questor
+bike
+winona
+springer
+vancouver
+bc"]
+"2_8" -> "1_119" [penwidth=1.3241,dir=forward]
+"1_119" [rank =3,fontsize =26.1342, shape=box, style="rounded", color=black,label="119 helmet
+eskimo
+shoei
+mavenry
+norman
+size
+head
+maven
+altcit
+paint
+passenger
+helmets"]
+"4_4" [ rank =4,fontsize =47.9387, shape=box, style="rounded", color=green, label="4 thanks mail email information
+help fax software info
+advance looking new hi"]
+"4_4" -> "3_1" [penwidth=14.825,dir=forward]
+"3_1" [rank =5,fontsize =50, shape=box, style="rounded", color=orange,label="1 thanks mail email information
+help fax software info
+advance looking new hi"]
+"3_1" [ rank =3,fontsize =50, shape=box, style="rounded", color=orange, label="1 thanks mail email information
+help fax software info
+advance looking new hi"]
+"3_1" -> "2_1" [penwidth=13.8512,dir=forward]
+"2_1" [rank =4,fontsize =50, shape=box, style="rounded", color=blue,label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"3_1" -> "2_26" [penwidth=5.5721,dir=forward]
+"2_26" [rank =4,fontsize =43.3529, shape=box, style="rounded", color=blue,label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_1" [ rank =2,fontsize =50, shape=box, style="rounded", color=blue, label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"2_1" -> "1_1" [penwidth=4.9616,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_1" -> "1_2" [penwidth=4.5247,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_1" -> "1_3" [penwidth=9.7294,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_1" -> "1_6" [penwidth=6.2271,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_1" -> "1_7" [penwidth=4.0409,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_1" -> "1_42" [penwidth=2.8686,dir=forward]
+"1_42" [rank =3,fontsize =31.7793, shape=box, style="rounded", color=black,label="42 graphics
+ftp
+pub
+data
+ray
+risc
+contact
+sgi
+machines
+pc
+instruction
+mail"]
+"2_1" -> "1_56" [penwidth=1.8844,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_1" -> "1_59" [penwidth=1.8251,dir=forward]
+"1_59" [rank =3,fontsize =29.5996, shape=box, style="rounded", color=black,label="59 au
+australia
+oz
+mark
+philips
+canberra
+melbourne
+qdeck
+uwa
+quarterdeck
+network
+prl"]
+"2_1" -> "1_69" [penwidth=1.6249,dir=forward]
+"1_69" [rank =3,fontsize =28.6849, shape=box, style="rounded", color=black,label="69 graphics
+group
+ch
+comp
+umich
+split
+aspects
+groups
+engin
+radiosity
+grafsys
+hidden"]
+"2_26" [ rank =2,fontsize =43.3529, shape=box, style="rounded", color=blue, label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_26" -> "1_1" [penwidth=6.1469,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_26" -> "1_3" [penwidth=6.1376,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_26" -> "1_6" [penwidth=3.8177,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_26" -> "1_8" [penwidth=3.906,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_26" -> "1_27" [penwidth=9.9267,dir=forward]
+"1_27" [rank =3,fontsize =35.1674, shape=box, style="rounded", color=black,label="27 image
+jpeg
+gif
+color
+files
+file
+images
+format
+bit
+display
+graphics
+program"]
+"2_26" -> "1_39" [penwidth=2.082,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_26" -> "1_53" [penwidth=1.8811,dir=forward]
+"1_53" [rank =3,fontsize =30.0303, shape=box, style="rounded", color=black,label="53 printer
+hp
+print
+laser
+ink
+printers
+deskjet
+postscript
+bj
+canon
+quality
+toner"]
+"4_8" [ rank =4,fontsize =45.8721, shape=box, style="rounded", color=green, label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"4_8" -> "3_8" [penwidth=14.7841,dir=forward]
+"3_8" [rank =5,fontsize =47.2996, shape=box, style="rounded", color=orange,label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"3_8" [ rank =3,fontsize =47.2996, shape=box, style="rounded", color=orange, label="8 god jesus christian bible
+christ believe christians church
+life faith man said"]
+"3_8" -> "2_5" [penwidth=10.2222,dir=forward]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"3_8" -> "2_20" [penwidth=10.8519,dir=forward]
+"2_20" [rank =4,fontsize =45.0816, shape=box, style="rounded", color=blue,label="20 god jesus church christian
+bible christ christians believe
+law life faith new"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"2_5" -> "1_1" [penwidth=8.7148,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_5" -> "1_2" [penwidth=5.5705,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_5" -> "1_4" [penwidth=9.8213,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_5" -> "1_55" [penwidth=1.5769,dir=forward]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"2_5" -> "1_64" [penwidth=1.6528,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"2_5" -> "1_101" [penwidth=1.3347,dir=forward]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_20" [ rank =2,fontsize =45.0816, shape=box, style="rounded", color=blue, label="20 god jesus church christian
+bible christ christians believe
+law life faith new"]
+"2_20" -> "1_1" [penwidth=7.4565,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_20" -> "1_3" [penwidth=2.3204,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_20" -> "1_4" [penwidth=8.8584,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_20" -> "1_7" [penwidth=4.4242,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_20" -> "1_14" [penwidth=2.6465,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_20" -> "1_19" [penwidth=2.8922,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_20" -> "1_26" [penwidth=2.2639,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_20" -> "1_40" [penwidth=5.2234,dir=forward]
+"1_40" [rank =3,fontsize =32.1842, shape=box, style="rounded", color=black,label="40 church
+law
+catholic
+pope
+holy
+father
+sabbath
+worship
+paul
+son
+spirit
+sunday"]
+"2_20" -> "1_55" [penwidth=2.1614,dir=forward]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"2_20" -> "1_109" [penwidth=1.8373,dir=forward]
+"1_109" [rank =3,fontsize =26.4759, shape=box, style="rounded", color=black,label="109 marriage
+married
+ceremony
+couple
+marry
+divorce
+commitment
+eyes
+church
+wedding
+priest
+civil"]
+"4_23" [ rank =4,fontsize =40.9209, shape=box, style="rounded", color=green, label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_23" -> "3_3" [penwidth=3.9129,dir=forward]
+"3_3" [rank =5,fontsize =48.4599, shape=box, style="rounded", color=orange,label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"4_23" -> "3_27" [penwidth=13.745,dir=forward]
+"3_27" [rank =5,fontsize =41.727, shape=box, style="rounded", color=orange,label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_3" [ rank =3,fontsize =48.4599, shape=box, style="rounded", color=orange, label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"3_3" -> "2_5" [penwidth=10.9848,dir=forward]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"3_3" -> "2_17" [penwidth=10.1637,dir=forward]
+"2_17" [rank =4,fontsize =45.6348, shape=box, style="rounded", color=blue,label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_17" [ rank =2,fontsize =45.6348, shape=box, style="rounded", color=blue, label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_17" -> "1_1" [penwidth=8.6385,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_17" -> "1_2" [penwidth=5.2765,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_17" -> "1_14" [penwidth=2.1241,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_17" -> "1_19" [penwidth=9.2158,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_17" -> "1_39" [penwidth=1.631,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_17" -> "1_63" [penwidth=2.9089,dir=forward]
+"1_63" [rank =3,fontsize =29.2582, shape=box, style="rounded", color=black,label="63 rit
+isc
+ultb
+bobby
+mozumder
+snm
+religious
+religion
+eric
+mom
+atheist
+men"]
+"2_17" -> "1_70" [penwidth=2.345,dir=forward]
+"1_70" [rank =3,fontsize =28.4291, shape=box, style="rounded", color=black,label="70 umd
+wam
+mangoe
+wingate
+charley
+text
+peace
+luke
+revelation
+kmr
+matthew
+po"]
+"2_17" -> "1_88" [penwidth=1.3854,dir=forward]
+"1_88" [rank =3,fontsize =27.2275, shape=box, style="rounded", color=black,label="88 truth
+absolute
+absolutes
+scripture
+christians
+truths
+arrogant
+true
+arrogance
+bible
+believe
+claim"]
+"3_27" [ rank =3,fontsize =41.727, shape=box, style="rounded", color=orange, label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_27" -> "2_29" [penwidth=14.5401,dir=forward]
+"2_29" [rank =4,fontsize =42.4406, shape=box, style="rounded", color=blue,label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" [ rank =2,fontsize =42.4406, shape=box, style="rounded", color=blue, label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" -> "1_1" [penwidth=7.8532,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_29" -> "1_2" [penwidth=6.2188,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_29" -> "1_14" [penwidth=5.1168,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_29" -> "1_33" [penwidth=8.9837,dir=forward]
+"1_33" [rank =3,fontsize =33.7531, shape=box, style="rounded", color=black,label="33 cramer
+men
+gay
+homosexual
+optilink
+sexual
+clayton
+sex
+homosexuals
+homosexuality
+male
+virginia"]
+"2_29" -> "1_103" [penwidth=1.3395,dir=forward]
+"1_103" [rank =3,fontsize =26.794, shape=box, style="rounded", color=black,label="103 government
+isc
+br
+thor
+steveh
+hendricks
+steve
+libertarians
+regulation
+libertarian
+free
+uucp"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_9" "1_61" "1_65" "1_1" "1_2" "1_3" "1_15" "1_26" "1_44" "1_75" "1_100" "1_119" "1_1" "1_2" "1_3" "1_6" "1_7" "1_42" "1_56" "1_59" "1_69" "1_1" "1_3" "1_6" "1_8" "1_27" "1_39" "1_53" "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_3" "1_4" "1_7" "1_14" "1_19" "1_26" "1_40" "1_55" "1_109" "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_2" "1_14" "1_19" "1_39" "1_63" "1_70" "1_88" "1_1" "1_2" "1_14" "1_33" "1_103"}{rank=same; "2_3" "2_3" "2_8" "2_8" "2_1" "2_26" "2_1" "2_26" "2_5" "2_20" "2_5" "2_20" "2_5" "2_17" "2_5" "2_17" "2_29" "2_29"}{rank=same; "3_4" "3_9" "3_4" "3_9" "3_1" "3_1" "3_8" "3_8" "3_3" "3_27" "3_3" "3_27"}{rank=same; "4_2" "4_4" "4_8" "4_23" "4_2" "4_4" "4_8" "4_23"}{rank=same; "5_31"}}

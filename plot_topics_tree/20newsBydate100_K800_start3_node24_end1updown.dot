@@ -1,0 +1,170 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_24" [ rank =3,fontsize =42.7182, shape=box, style="rounded", color=orange, label="24 objective morality moral keith
+frank values livesey jon
+wrong caltech sgi isn"]
+"3_24" -> "2_27" [penwidth=14.7457,dir=forward]
+"2_27" [rank =4,fontsize =43.263, shape=box, style="rounded", color=blue,label="27 objective morality moral keith
+frank values livesey jon
+wrong caltech sgi isn"]
+"2_27" [ rank =2,fontsize =43.263, shape=box, style="rounded", color=blue, label="27 objective morality moral keith
+frank values livesey jon
+wrong caltech sgi isn"]
+"2_27" -> "1_1" [penwidth=8.2273,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_27" -> "1_2" [penwidth=4.4348,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_27" -> "1_14" [penwidth=3.2364,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_27" -> "1_19" [penwidth=4.2085,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_27" -> "1_25" [penwidth=0.8333,dir=forward]
+"1_25" [rank =3,fontsize =35.5789, shape=box, style="rounded", color=black,label="25 jews
+israel
+israeli
+jewish
+arab
+arabs
+land
+center
+policy
+anti
+research
+palestine"]
+"2_27" -> "1_29" [penwidth=9.6243,dir=forward]
+"1_29" [rank =3,fontsize =34.8557, shape=box, style="rounded", color=black,label="29 objective
+morality
+moral
+keith
+frank
+values
+livesey
+jon
+caltech
+sgi
+murder
+natural"]
+"2_27" -> "1_45" [penwidth=1.3305,dir=forward]
+"1_45" [rank =3,fontsize =31.532, shape=box, style="rounded", color=black,label="45 uiuc
+cso
+uxa
+ux
+illinois
+urbana
+josh
+manta
+cka
+hopkins
+champaign
+amin"]
+"2_27" -> "1_64" [penwidth=1.1319,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"2_27" -> "1_77" [penwidth=1.9048,dir=forward]
+"1_77" [rank =3,fontsize =27.9694, shape=box, style="rounded", color=black,label="77 tek
+vice
+ico
+bobbe
+beauchaine
+robert
+bronx
+cobb
+bob
+sea
+queens
+blew"]
+"2_27" -> "1_81" [penwidth=0.99387,dir=forward]
+"1_81" [rank =3,fontsize =27.6331, shape=box, style="rounded", color=black,label="81 sex
+child
+copy
+women
+children
+protection
+pregnancy
+depression
+abstinence
+sexual
+education
+sehari"]
+"2_27" -> "1_85" [penwidth=0.77239,dir=forward]
+"1_85" [rank =3,fontsize =27.3413, shape=box, style="rounded", color=black,label="85 war
+iran
+jury
+farid
+energy
+bombing
+hussein
+iraq
+military
+iraqi
+bomb
+civilians"]
+"2_27" -> "1_98" [penwidth=0.8333,dir=forward]
+"1_98" [rank =3,fontsize =26.9347, shape=box, style="rounded", color=black,label="98 bosnia
+arromdee
+jhu
+serbs
+somalia
+ken
+jyusenkyou
+muslims
+sides
+turkey
+ethnic
+intervention"]
+{rank=same; "1_1" "1_2" "1_14" "1_19" "1_25" "1_29" "1_45" "1_64" "1_77" "1_81" "1_85" "1_98"}{rank=same; "2_27" "2_27"}{rank=same; "3_24"}{rank=same;}{rank=same;}}

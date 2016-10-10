@@ -1,0 +1,157 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_4" [ rank =3,fontsize =48.3403, shape=box, style="rounded", color=orange, label="4 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"3_4" -> "2_3" [penwidth=14.9536,dir=forward]
+"2_3" [rank =4,fontsize =49.0955, shape=box, style="rounded", color=blue,label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" [ rank =2,fontsize =49.0955, shape=box, style="rounded", color=blue, label="3 car cars new engine
+miles dealer price drive
+year road buy speed"]
+"2_3" -> "1_1" [penwidth=8.3258,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_3" -> "1_2" [penwidth=4.5911,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_3" -> "1_3" [penwidth=3.3888,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_3" -> "1_7" [penwidth=2.0837,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_3" -> "1_9" [penwidth=9.9887,dir=forward]
+"1_9" [rank =3,fontsize =40.0639, shape=box, style="rounded", color=black,label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"2_3" -> "1_26" [penwidth=1.3041,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_3" -> "1_45" [penwidth=1.0396,dir=forward]
+"1_45" [rank =3,fontsize =31.532, shape=box, style="rounded", color=black,label="45 uiuc
+cso
+uxa
+ux
+illinois
+urbana
+josh
+manta
+cka
+hopkins
+champaign
+amin"]
+"2_3" -> "1_51" [penwidth=0.80592,dir=forward]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"2_3" -> "1_61" [penwidth=1.8797,dir=forward]
+"1_61" [rank =3,fontsize =29.4344, shape=box, style="rounded", color=black,label="61 callison
+uoknor
+james
+car
+ecn
+lights
+uokmax
+fake
+bird
+continental
+alarm
+slb"]
+"2_3" -> "1_65" [penwidth=1.9152,dir=forward]
+"1_65" [rank =3,fontsize =28.8508, shape=box, style="rounded", color=black,label="65 speed
+car
+drive
+manual
+drivers
+traffic
+cars
+fuel
+automatic
+auto
+lane
+shift"]
+"2_3" -> "1_83" [penwidth=1.0133,dir=forward]
+"1_83" [rank =3,fontsize =27.4759, shape=box, style="rounded", color=black,label="83 radar
+detector
+detectors
+police
+car
+beam
+illegal
+antenna
+radio
+virginia
+law
+band"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_9" "1_26" "1_45" "1_51" "1_61" "1_65" "1_83"}{rank=same; "2_3" "2_3"}{rank=same; "3_4"}{rank=same;}{rank=same;}}

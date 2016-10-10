@@ -1,0 +1,1324 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_47" [ rank =3,fontsize =30.1418, shape=box, style="rounded", color=orange, label="47 thanks mail new information
+help email work fax
+card software available using"]
+"3_47" -> "2_1" [penwidth=7.5132,dir=forward]
+"2_1" [rank =4,fontsize =50, shape=box, style="rounded", color=blue,label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"3_47" -> "2_9" [penwidth=4.9645,dir=forward]
+"2_9" [rank =4,fontsize =47.6786, shape=box, style="rounded", color=blue,label="9 window thanks widget application
+using display available program
+mail server set software"]
+"3_47" -> "2_12" [penwidth=4.0861,dir=forward]
+"2_12" [rank =4,fontsize =46.7367, shape=box, style="rounded", color=blue,label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"3_47" -> "2_13" [penwidth=2.9573,dir=forward]
+"2_13" [rank =4,fontsize =46.6503, shape=box, style="rounded", color=blue,label="13 government encryption clipper key
+chip nsa phone public
+secure crypto keys netcom"]
+"3_47" -> "2_16" [penwidth=4.9645,dir=forward]
+"2_16" [rank =4,fontsize =45.911, shape=box, style="rounded", color=blue,label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"3_47" -> "2_23" [penwidth=4.9645,dir=forward]
+"2_23" [rank =4,fontsize =43.7871, shape=box, style="rounded", color=blue,label="23 uiuc new believe cso
+said read let ll
+says doesn long post"]
+"3_47" -> "2_28" [penwidth=4.0861,dir=forward]
+"2_28" [rank =4,fontsize =42.9959, shape=box, style="rounded", color=blue,label="28 law state government new
+said president mr rights
+states information public national"]
+"3_47" -> "2_57" [penwidth=2.9573,dir=forward]
+"2_57" [rank =4,fontsize =26.9426, shape=box, style="rounded", color=blue,label="57 encryption privacy government key
+internet law file anonymous
+information new technology access"]
+"2_1" [ rank =2,fontsize =50, shape=box, style="rounded", color=blue, label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"2_1" -> "1_1" [penwidth=4.9616,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_1" -> "1_2" [penwidth=4.5247,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_1" -> "1_3" [penwidth=9.7294,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_1" -> "1_6" [penwidth=6.2271,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_1" -> "1_7" [penwidth=4.0409,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_1" -> "1_39" [penwidth=1.0039,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_1" -> "1_42" [penwidth=2.8686,dir=forward]
+"1_42" [rank =3,fontsize =31.7793, shape=box, style="rounded", color=black,label="42 graphics
+ftp
+pub
+data
+ray
+risc
+contact
+sgi
+machines
+pc
+instruction
+mail"]
+"2_1" -> "1_56" [penwidth=1.8844,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_1" -> "1_59" [penwidth=1.8251,dir=forward]
+"1_59" [rank =3,fontsize =29.5996, shape=box, style="rounded", color=black,label="59 au
+australia
+oz
+mark
+philips
+canberra
+melbourne
+qdeck
+uwa
+quarterdeck
+network
+prl"]
+"2_1" -> "1_69" [penwidth=1.6249,dir=forward]
+"1_69" [rank =3,fontsize =28.6849, shape=box, style="rounded", color=black,label="69 graphics
+group
+ch
+comp
+umich
+split
+aspects
+groups
+engin
+radiosity
+grafsys
+hidden"]
+"2_1" -> "1_79" [penwidth=1.0039,dir=forward]
+"1_79" [rank =3,fontsize =27.7548, shape=box, style="rounded", color=black,label="79 sgi
+upgrade
+graphics
+silicon
+ucsd
+demers
+product
+diego
+iw
+path
+sales
+customers"]
+"2_1" -> "1_91" [penwidth=1.2416,dir=forward]
+"1_91" [rank =3,fontsize =27.1346, shape=box, style="rounded", color=black,label="91 image
+processing
+analysis
+plplot
+images
+sphinx
+plots
+screen
+data
+hips
+plotting
+tube"]
+"2_1" -> "1_111" [penwidth=1.0194,dir=forward]
+"1_111" [rank =3,fontsize =26.3733, shape=box, style="rounded", color=black,label="111 points
+sphere
+plane
+center
+circle
+bolson
+line
+radius
+washington
+coplanar
+solution
+surface"]
+"2_9" [ rank =2,fontsize =47.6786, shape=box, style="rounded", color=blue, label="9 window thanks widget application
+using display available program
+mail server set software"]
+"2_9" -> "1_1" [penwidth=6.6038,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_9" -> "1_2" [penwidth=3.3623,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_9" -> "1_3" [penwidth=5.2544,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_9" -> "1_6" [penwidth=6.9847,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_9" -> "1_18" [penwidth=8.3153,dir=forward]
+"1_18" [rank =3,fontsize =37.2946, shape=box, style="rounded", color=black,label="18 window
+widget
+application
+display
+manager
+set
+using
+problem
+visual
+color
+value
+xlib"]
+"2_9" -> "1_39" [penwidth=1.1582,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_9" -> "1_56" [penwidth=0.83332,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_9" -> "1_68" [penwidth=2.1088,dir=forward]
+"1_68" [rank =3,fontsize =28.7361, shape=box, style="rounded", color=black,label="68 xterm
+keyboard
+key
+echo
+keys
+title
+host
+set
+keycode
+sequences
+ff
+hostname"]
+"2_9" -> "1_74" [penwidth=1.9046,dir=forward]
+"1_74" [rank =3,fontsize =28.2343, shape=box, style="rounded", color=black,label="74 lib
+libxmu
+xmu
+ld
+symbol
+undefined
+doug
+usr
+imake
+problem
+sunos
+error"]
+"2_9" -> "1_106" [penwidth=0.77984,dir=forward]
+"1_106" [rank =3,fontsize =26.6045, shape=box, style="rounded", color=black,label="106 navy
+mil
+virtual
+dt
+reality
+nswc
+oasys
+bethesda
+scientific
+presentations
+visualization
+seminar"]
+"2_9" -> "1_116" [penwidth=1.3151,dir=forward]
+"1_116" [rank =3,fontsize =26.203, shape=box, style="rounded", color=black,label="116 memory
+mit
+server
+shared
+xputimage
+uk
+ac
+cam
+sunview
+derek
+ast
+mail"]
+"2_9" -> "1_124" [penwidth=1.1767,dir=forward]
+"1_124" [rank =3,fontsize =25.9051, shape=box, style="rounded", color=black,label="124 gl
+gerard
+xmdrawingarea
+pyeatt
+graham
+dps
+jade
+texaco
+driscoll
+sgi
+calls
+du"]
+"2_9" -> "1_127" [penwidth=0.85881,dir=forward]
+"1_127" [rank =3,fontsize =25.8387, shape=box, style="rounded", color=black,label="127 output
+file
+entry
+program
+printf
+oname
+eof
+char
+stream
+ok
+buf
+check"]
+"2_9" -> "1_142" [penwidth=1.0195,dir=forward]
+"1_142" [rank =3,fontsize =25.21, shape=box, style="rounded", color=black,label="142 expose
+item
+event
+whaley
+handler
+mapped
+new
+kpc
+graphics
+buzz
+xcopyarea
+contains"]
+"2_9" -> "1_145" [penwidth=0.97632,dir=forward]
+"1_145" [rank =3,fontsize =25.0362, shape=box, style="rounded", color=black,label="145 andre
+beck
+dresden
+inf
+abpsoft
+mehl
+irs
+brain
+xdefaults
+inside
+wscrawl
+tu"]
+"2_9" -> "1_162" [penwidth=0.90764,dir=forward]
+"1_162" [rank =3,fontsize =24.6173, shape=box, style="rounded", color=black,label="162 tgv
+mahan
+lazarus
+long
+patrick
+decnet
+xdm
+person
+capital
+crime
+unnecessarily
+offense"]
+"2_12" [ rank =2,fontsize =46.7367, shape=box, style="rounded", color=blue, label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"2_12" -> "1_1" [penwidth=8.9924,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_12" -> "1_2" [penwidth=4.368,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_12" -> "1_3" [penwidth=2.9964,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_12" -> "1_7" [penwidth=4.011,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_12" -> "1_19" [penwidth=1.3119,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_12" -> "1_21" [penwidth=8.0394,dir=forward]
+"1_21" [rank =3,fontsize =36.5527, shape=box, style="rounded", color=black,label="21 disease
+doctor
+pain
+treatment
+medical
+patients
+medicine
+cancer
+help
+skin
+blood
+problems"]
+"2_12" -> "1_26" [penwidth=2.0902,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_12" -> "1_67" [penwidth=2.3023,dir=forward]
+"1_67" [rank =3,fontsize =28.7509, shape=box, style="rounded", color=black,label="67 msg
+food
+chinese
+taste
+reaction
+restaurant
+allergic
+mot
+flavor
+dougb
+sick
+eat"]
+"2_12" -> "1_71" [penwidth=2.2916,dir=forward]
+"1_71" [rank =3,fontsize =28.4008, shape=box, style="rounded", color=black,label="71 candida
+yeast
+noring
+steve
+symptoms
+jon
+vitamin
+dyer
+body
+quack
+patients
+sinus"]
+"2_12" -> "1_73" [penwidth=2.1708,dir=forward]
+"1_73" [rank =3,fontsize =28.3181, shape=box, style="rounded", color=black,label="73 msg
+dyer
+spdcc
+glutamate
+food
+effects
+brain
+studies
+humans
+blood
+olney
+foods"]
+"2_12" -> "1_87" [penwidth=1.1094,dir=forward]
+"1_87" [rank =3,fontsize =27.2708, shape=box, style="rounded", color=black,label="87 water
+cooling
+nuclear
+plants
+steam
+towers
+heat
+hot
+air
+temperature
+cool
+power"]
+"2_12" -> "1_89" [penwidth=1.6733,dir=forward]
+"1_89" [rank =3,fontsize =27.2109, shape=box, style="rounded", color=black,label="89 health
+aids
+hiv
+medical
+cancer
+number
+april
+tobacco
+hicnet
+volume
+newsletter
+children"]
+"2_12" -> "1_128" [penwidth=0.8315,dir=forward]
+"1_128" [rank =3,fontsize =25.7774, shape=box, style="rounded", color=black,label="128 cnsvax
+uwec
+nye
+nyeda
+absurd
+clinic
+bertrand
+absurdities
+eau
+claire
+philosopher
+wishes"]
+"2_12" -> "1_144" [penwidth=0.99277,dir=forward]
+"1_144" [rank =3,fontsize =25.1243, shape=box, style="rounded", color=black,label="144 jb
+ron
+gr
+medicine
+roth
+rose
+alternative
+proper
+rr
+uclink
+diseases
+berkeley"]
+"2_12" -> "1_180" [penwidth=0.88851,dir=forward]
+"1_180" [rank =3,fontsize =24.2792, shape=box, style="rounded", color=black,label="180 acidophilous
+thrush
+outbreaks
+taking
+astemizole
+gain
+linked
+resumed
+hismanal
+mccurdy
+sdsu
+ucsvax"]
+"2_12" -> "1_190" [penwidth=0.80147,dir=forward]
+"1_190" [rank =3,fontsize =24.0992, shape=box, style="rounded", color=black,label="190 zisfein
+polio
+jim
+dn
+jl
+factory
+motor
+slmr
+headache
+gb
+assignment
+pps"]
+"2_13" [ rank =2,fontsize =46.6503, shape=box, style="rounded", color=blue, label="13 government encryption clipper key
+chip nsa phone public
+secure crypto keys netcom"]
+"2_13" -> "1_1" [penwidth=8.1878,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_13" -> "1_2" [penwidth=4.2855,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_13" -> "1_7" [penwidth=1.7746,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_13" -> "1_14" [penwidth=3.9364,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_13" -> "1_16" [penwidth=9.3176,dir=forward]
+"1_16" [rank =3,fontsize =37.569, shape=box, style="rounded", color=black,label="16 clipper
+government
+chip
+key
+encryption
+nsa
+phone
+crypto
+secure
+keys
+netcom
+public"]
+"2_13" -> "1_37" [penwidth=4.5524,dir=forward]
+"1_37" [rank =3,fontsize =32.5838, shape=box, style="rounded", color=black,label="37 encryption
+law
+government
+technology
+enforcement
+chip
+clipper
+privacy
+key
+administration
+new
+protect"]
+"2_13" -> "1_50" [penwidth=1.7746,dir=forward]
+"1_50" [rank =3,fontsize =31.0213, shape=box, style="rounded", color=black,label="50 key
+ripem
+des
+rsa
+public
+pgp
+security
+cryptography
+encryption
+crypt
+message
+faq"]
+"2_13" -> "1_76" [penwidth=1.0879,dir=forward]
+"1_76" [rank =3,fontsize =28.2238, shape=box, style="rounded", color=black,label="76 militia
+amendment
+arms
+bear
+second
+constitution
+regulated
+government
+shall
+state
+ulowell
+organized"]
+"2_13" -> "1_96" [penwidth=1.4585,dir=forward]
+"1_96" [rank =3,fontsize =27.0526, shape=box, style="rounded", color=black,label="96 holland
+colostate
+tempest
+craig
+douglas
+lethal
+rob
+protect
+cmhnet
+yuma
+acns
+bullets"]
+"2_13" -> "1_99" [penwidth=1.1579,dir=forward]
+"1_99" [rank =3,fontsize =26.9258, shape=box, style="rounded", color=black,label="99 pat
+rwing
+clinton
+uucp
+myrto
+wa
+administration
+zinc
+infinite
+albert
+ucc
+uunet"]
+"2_13" -> "1_115" [penwidth=1.1748,dir=forward]
+"1_115" [rank =3,fontsize =26.2287, shape=box, style="rounded", color=black,label="115 gtoal
+compression
+speech
+graham
+toal
+bis
+voice
+uk
+rate
+nren
+samples
+modems"]
+"2_16" [ rank =2,fontsize =45.911, shape=box, style="rounded", color=blue, label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"2_16" -> "1_1" [penwidth=5.7195,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_16" -> "1_2" [penwidth=3.7046,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_16" -> "1_3" [penwidth=6.7582,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_16" -> "1_6" [penwidth=2.466,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_16" -> "1_8" [penwidth=3.812,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_16" -> "1_17" [penwidth=10.3261,dir=forward]
+"1_17" [rank =3,fontsize =37.5683, shape=box, style="rounded", color=black,label="17 card
+monitor
+video
+vga
+drivers
+cards
+mode
+ati
+graphics
+screen
+svga
+driver"]
+"2_23" [ rank =2,fontsize =43.7871, shape=box, style="rounded", color=blue, label="23 uiuc new believe cso
+said read let ll
+says doesn long post"]
+"2_23" -> "1_1" [penwidth=7.9784,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_23" -> "1_2" [penwidth=9.9549,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_23" -> "1_39" [penwidth=1.3138,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_23" -> "1_45" [penwidth=3.1247,dir=forward]
+"1_45" [rank =3,fontsize =31.532, shape=box, style="rounded", color=black,label="45 uiuc
+cso
+uxa
+ux
+illinois
+urbana
+josh
+manta
+cka
+hopkins
+champaign
+amin"]
+"2_23" -> "1_52" [penwidth=0.89653,dir=forward]
+"1_52" [rank =3,fontsize =30.4967, shape=box, style="rounded", color=black,label="52 won
+lost
+san
+new
+kaldis
+rutgers
+york
+houston
+st
+astros
+louis
+reds"]
+"2_23" -> "1_54" [penwidth=4.0274,dir=forward]
+"1_54" [rank =3,fontsize =29.7916, shape=box, style="rounded", color=black,label="54 ted
+colorado
+frank
+thf
+kimbark
+teel
+uchicago
+khan
+psu
+large
+psuvm
+cso"]
+"2_23" -> "1_60" [penwidth=1.095,dir=forward]
+"1_60" [rank =3,fontsize =29.5728, shape=box, style="rounded", color=black,label="60 roby
+fbi
+udel
+handheld
+jim
+jmd
+chopin
+clinton
+scott
+children
+idbsu
+affair"]
+"2_23" -> "1_73" [penwidth=0.81975,dir=forward]
+"1_73" [rank =3,fontsize =28.3181, shape=box, style="rounded", color=black,label="73 msg
+dyer
+spdcc
+glutamate
+food
+effects
+brain
+studies
+humans
+blood
+olney
+foods"]
+"2_23" -> "1_77" [penwidth=2.0243,dir=forward]
+"1_77" [rank =3,fontsize =27.9694, shape=box, style="rounded", color=black,label="77 tek
+vice
+ico
+bobbe
+beauchaine
+robert
+bronx
+cobb
+bob
+sea
+queens
+blew"]
+"2_23" -> "1_125" [penwidth=0.89653,dir=forward]
+"1_125" [rank =3,fontsize =25.8442, shape=box, style="rounded", color=black,label="125 drieux
+blood
+arizona
+zephyr
+asphaug
+washed
+alizard
+lamb
+bull
+wetware
+species
+kfu"]
+"2_23" -> "1_131" [penwidth=1.4105,dir=forward]
+"1_131" [rank =3,fontsize =25.559, shape=box, style="rounded", color=black,label="131 tiff
+spec
+alice
+galki
+toppoint
+joachim
+number
+guide
+suggestions
+ulrich
+manchester
+king"]
+"2_23" -> "1_143" [penwidth=1.4565,dir=forward]
+"1_143" [rank =3,fontsize =25.1701, shape=box, style="rounded", color=black,label="143 henrik
+bm
+armenia
+armenians
+azeris
+cyprus
+turkey
+karabakh
+turkish
+kpc
+turks
+conflict"]
+"2_23" -> "1_148" [penwidth=1.1536,dir=forward]
+"1_148" [rank =3,fontsize =24.9013, shape=box, style="rounded", color=black,label="148 planes
+onur
+yalcin
+armenians
+armenia
+henrik
+announced
+weapons
+oy
+homeland
+azerbadjan
+karabakh"]
+"2_23" -> "1_152" [penwidth=1.0331,dir=forward]
+"1_152" [rank =3,fontsize =24.8007, shape=box, style="rounded", color=black,label="152 pro
+angmar
+cosmo
+hunting
+deer
+uucp
+uunet
+alfalfa
+bu
+proline
+alphalpha
+nathan"]
+"2_23" -> "1_154" [penwidth=0.89653,dir=forward]
+"1_154" [rank =3,fontsize =24.7273, shape=box, style="rounded", color=black,label="154 os
+comp
+votes
+vote
+misc
+programmer
+diabetes
+voting
+mil
+unmoderated
+proposed
+health"]
+"2_23" -> "1_157" [penwidth=1.363,dir=forward]
+"1_157" [rank =3,fontsize =24.7109, shape=box, style="rounded", color=black,label="157 rocks
+cars
+kids
+virginia
+erik
+society
+life
+kill
+ago
+bridges
+tobias
+overpass"]
+"2_23" -> "1_168" [penwidth=1.1536,dir=forward]
+"1_168" [rank =3,fontsize =24.4658, shape=box, style="rounded", color=black,label="168 greeks
+turkey
+turks
+turkish
+tankut
+person
+greek
+napoleon
+bad
+iastate
+compromise
+called"]
+"2_23" -> "1_169" [penwidth=1.363,dir=forward]
+"1_169" [rank =3,fontsize =24.4399, shape=box, style="rounded", color=black,label="169 company
+bell
+amp
+current
+ampere
+named
+bel
+ohmite
+unit
+db
+sehari
+ohms"]
+"2_23" -> "1_175" [penwidth=0.81975,dir=forward]
+"1_175" [rank =3,fontsize =24.3263, shape=box, style="rounded", color=black,label="175 routine
+fast
+polygon
+polygons
+game
+mode
+draw
+vga
+lucas
+asm
+sophia
+triangle"]
+"2_28" [ rank =2,fontsize =42.9959, shape=box, style="rounded", color=blue, label="28 law state government new
+said president mr rights
+states information public national"]
+"2_28" -> "1_1" [penwidth=7.1628,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_28" -> "1_4" [penwidth=1.9239,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_28" -> "1_7" [penwidth=7.4479,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_28" -> "1_14" [penwidth=7.0201,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_28" -> "1_26" [penwidth=3.8739,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_28" -> "1_47" [penwidth=4.6681,dir=forward]
+"1_47" [rank =3,fontsize =31.3843, shape=box, style="rounded", color=black,label="47 president
+mr
+stephanopoulos
+jobs
+said
+ms
+package
+myers
+secretary
+work
+working
+clinton"]
+"2_28" -> "1_48" [penwidth=0.85203,dir=forward]
+"1_48" [rank =3,fontsize =31.3763, shape=box, style="rounded", color=black,label="48 alaska
+nsmca
+space
+aurora
+moon
+gene
+adams
+acad
+raider
+jacked
+net
+billion"]
+"2_28" -> "1_49" [penwidth=1.0964,dir=forward]
+"1_49" [rank =3,fontsize =31.135, shape=box, style="rounded", color=black,label="49 anonymous
+internet
+privacy
+email
+posting
+usenet
+mail
+information
+eff
+anonymity
+users
+pub"]
+"2_28" -> "1_81" [penwidth=1.4266,dir=forward]
+"1_81" [rank =3,fontsize =27.6331, shape=box, style="rounded", color=black,label="81 sex
+child
+copy
+women
+children
+protection
+pregnancy
+depression
+abstinence
+sexual
+education
+sehari"]
+"2_28" -> "1_85" [penwidth=2.762,dir=forward]
+"1_85" [rank =3,fontsize =27.3413, shape=box, style="rounded", color=black,label="85 war
+iran
+jury
+farid
+energy
+bombing
+hussein
+iraq
+military
+iraqi
+bomb
+civilians"]
+"2_28" -> "1_98" [penwidth=0.98182,dir=forward]
+"1_98" [rank =3,fontsize =26.9347, shape=box, style="rounded", color=black,label="98 bosnia
+arromdee
+jhu
+serbs
+somalia
+ken
+jyusenkyou
+muslims
+sides
+turkey
+ethnic
+intervention"]
+"2_28" -> "1_105" [penwidth=1.9239,dir=forward]
+"1_105" [rank =3,fontsize =26.6179, shape=box, style="rounded", color=black,label="105 adl
+bullock
+san
+francisco
+police
+arens
+information
+anti
+league
+yigal
+files
+los"]
+"2_28" -> "1_141" [penwidth=1.5466,dir=forward]
+"1_141" [rank =3,fontsize =25.2111, shape=box, style="rounded", color=black,label="141 war
+south
+secret
+nuclear
+naval
+rockefeller
+military
+island
+georgia
+new
+ships
+navy"]
+"2_28" -> "1_182" [penwidth=0.77907,dir=forward]
+"1_182" [rank =3,fontsize =24.2465, shape=box, style="rounded", color=black,label="182 drink
+hours
+alcohol
+eskimo
+general
+rule
+drinks
+thumb
+cycling
+sobriety
+sober
+norman"]
+"2_57" [ rank =2,fontsize =26.9426, shape=box, style="rounded", color=blue, label="57 encryption privacy government key
+internet law file anonymous
+information new technology access"]
+"2_57" -> "1_37" [penwidth=2.469,dir=forward]
+"1_37" [rank =3,fontsize =32.5838, shape=box, style="rounded", color=black,label="37 encryption
+law
+government
+technology
+enforcement
+chip
+clipper
+privacy
+key
+administration
+new
+protect"]
+"2_57" -> "1_49" [penwidth=2.469,dir=forward]
+"1_49" [rank =3,fontsize =31.135, shape=box, style="rounded", color=black,label="49 anonymous
+internet
+privacy
+email
+posting
+usenet
+mail
+information
+eff
+anonymity
+users
+pub"]
+{rank=same; "1_1" "1_2" "1_3" "1_6" "1_7" "1_39" "1_42" "1_56" "1_59" "1_69" "1_79" "1_91" "1_111" "1_1" "1_2" "1_3" "1_6" "1_18" "1_39" "1_56" "1_68" "1_74" "1_106" "1_116" "1_124" "1_127" "1_142" "1_145" "1_162" "1_1" "1_2" "1_3" "1_7" "1_19" "1_21" "1_26" "1_67" "1_71" "1_73" "1_87" "1_89" "1_128" "1_144" "1_180" "1_190" "1_1" "1_2" "1_7" "1_14" "1_16" "1_37" "1_50" "1_76" "1_96" "1_99" "1_115" "1_1" "1_2" "1_3" "1_6" "1_8" "1_17" "1_1" "1_2" "1_39" "1_45" "1_52" "1_54" "1_60" "1_73" "1_77" "1_125" "1_131" "1_143" "1_148" "1_152" "1_154" "1_157" "1_168" "1_169" "1_175" "1_1" "1_4" "1_7" "1_14" "1_26" "1_47" "1_48" "1_49" "1_81" "1_85" "1_98" "1_105" "1_141" "1_182" "1_37" "1_49"}{rank=same; "2_1" "2_9" "2_12" "2_13" "2_16" "2_23" "2_28" "2_57" "2_1" "2_9" "2_12" "2_13" "2_16" "2_23" "2_28" "2_57"}{rank=same; "3_47"}{rank=same;}{rank=same;}}

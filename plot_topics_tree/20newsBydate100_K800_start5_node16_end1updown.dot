@@ -1,0 +1,250 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_16" [ rank =5,fontsize =44.6062, shape=box, style="rounded", color=red, label="16 gun koresh fbi believe
+batf said government children
+guns new gas compound"]
+"5_16" -> "4_10" [penwidth=14.3383,dir=forward]
+"4_10" [rank =6,fontsize =45.0721, shape=box, style="rounded", color=green,label="10 gun koresh fbi believe
+batf said government guns
+children gas compound stratus"]
+"4_10" [ rank =4,fontsize =45.0721, shape=box, style="rounded", color=green, label="10 gun koresh fbi believe
+batf said government guns
+children gas compound stratus"]
+"4_10" -> "3_13" [penwidth=9.2773,dir=forward]
+"3_13" [rank =5,fontsize =45.9571, shape=box, style="rounded", color=orange,label="13 gun guns firearms crime
+control law weapons state
+new self government said"]
+"4_10" -> "3_21" [penwidth=11.2478,dir=forward]
+"3_21" [rank =5,fontsize =44.0453, shape=box, style="rounded", color=orange,label="21 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"3_13" [ rank =3,fontsize =45.9571, shape=box, style="rounded", color=orange, label="13 gun guns firearms crime
+control law weapons state
+new self government said"]
+"3_13" -> "2_14" [penwidth=14.6155,dir=forward]
+"2_14" [rank =4,fontsize =46.4877, shape=box, style="rounded", color=blue,label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"2_14" [ rank =2,fontsize =46.4877, shape=box, style="rounded", color=blue, label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"2_14" -> "1_1" [penwidth=8.8402,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_14" -> "1_2" [penwidth=4.8125,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_14" -> "1_7" [penwidth=3.0052,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_14" -> "1_14" [penwidth=5.3489,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_14" -> "1_23" [penwidth=7.9301,dir=forward]
+"1_23" [rank =3,fontsize =36.0426, shape=box, style="rounded", color=black,label="23 gun
+guns
+firearms
+crime
+control
+weapons
+self
+criminals
+defense
+handgun
+firearm
+violent"]
+"2_14" -> "1_26" [penwidth=1.9489,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_14" -> "1_76" [penwidth=1.9264,dir=forward]
+"1_76" [rank =3,fontsize =28.2238, shape=box, style="rounded", color=black,label="76 militia
+amendment
+arms
+bear
+second
+constitution
+regulated
+government
+shall
+state
+ulowell
+organized"]
+"2_14" -> "1_92" [penwidth=1.5217,dir=forward]
+"1_92" [rank =3,fontsize =27.1228, shape=box, style="rounded", color=black,label="92 weapons
+iastate
+dan
+nuclear
+viking
+sorenson
+destruction
+weapon
+homosexuality
+isu
+roehm
+unusual"]
+"3_21" [ rank =3,fontsize =44.0453, shape=box, style="rounded", color=orange, label="21 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"3_21" -> "2_22" [penwidth=14.8249,dir=forward]
+"2_22" [rank =4,fontsize =44.7156, shape=box, style="rounded", color=blue,label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" [ rank =2,fontsize =44.7156, shape=box, style="rounded", color=blue, label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" -> "1_1" [penwidth=7.3356,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_22" -> "1_2" [penwidth=6.2786,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_22" -> "1_4" [penwidth=1.9562,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_22" -> "1_14" [penwidth=2.8336,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_22" -> "1_24" [penwidth=9.5292,dir=forward]
+"1_24" [rank =3,fontsize =35.9525, shape=box, style="rounded", color=black,label="24 koresh
+fbi
+batf
+gas
+stratus
+compound
+waco
+children
+atf
+cdt
+believe
+government"]
+"2_22" -> "1_26" [penwidth=2.6477,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_22" -> "1_60" [penwidth=3.2127,dir=forward]
+"1_60" [rank =3,fontsize =29.5728, shape=box, style="rounded", color=black,label="60 roby
+fbi
+udel
+handheld
+jim
+jmd
+chopin
+clinton
+scott
+children
+idbsu
+affair"]
+"2_22" -> "1_122" [penwidth=1.5779,dir=forward]
+"1_122" [rank =3,fontsize =26.0831, shape=box, style="rounded", color=black,label="122 irvine
+uiuc
+cso
+wpi
+stove
+brent
+electric
+uxh
+ccwf
+stratus
+mikey
+cold"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_23" "1_26" "1_76" "1_92" "1_1" "1_2" "1_4" "1_14" "1_24" "1_26" "1_60" "1_122"}{rank=same; "2_14" "2_14" "2_22" "2_22"}{rank=same; "3_13" "3_21" "3_13" "3_21"}{rank=same; "4_10" "4_10"}{rank=same; "5_16"}}

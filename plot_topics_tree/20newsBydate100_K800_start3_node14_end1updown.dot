@@ -1,0 +1,222 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_14" [ rank =3,fontsize =45.6816, shape=box, style="rounded", color=orange, label="14 disease doctor pain new
+help treatment medical years
+said problem thanks patients"]
+"3_14" -> "2_12" [penwidth=14.904,dir=forward]
+"2_12" [rank =4,fontsize =46.7367, shape=box, style="rounded", color=blue,label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"2_12" [ rank =2,fontsize =46.7367, shape=box, style="rounded", color=blue, label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"2_12" -> "1_1" [penwidth=8.9924,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_12" -> "1_2" [penwidth=4.368,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_12" -> "1_3" [penwidth=2.9964,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_12" -> "1_7" [penwidth=4.011,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_12" -> "1_19" [penwidth=1.3119,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_12" -> "1_21" [penwidth=8.0394,dir=forward]
+"1_21" [rank =3,fontsize =36.5527, shape=box, style="rounded", color=black,label="21 disease
+doctor
+pain
+treatment
+medical
+patients
+medicine
+cancer
+help
+skin
+blood
+problems"]
+"2_12" -> "1_26" [penwidth=2.0902,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_12" -> "1_67" [penwidth=2.3023,dir=forward]
+"1_67" [rank =3,fontsize =28.7509, shape=box, style="rounded", color=black,label="67 msg
+food
+chinese
+taste
+reaction
+restaurant
+allergic
+mot
+flavor
+dougb
+sick
+eat"]
+"2_12" -> "1_71" [penwidth=2.2916,dir=forward]
+"1_71" [rank =3,fontsize =28.4008, shape=box, style="rounded", color=black,label="71 candida
+yeast
+noring
+steve
+symptoms
+jon
+vitamin
+dyer
+body
+quack
+patients
+sinus"]
+"2_12" -> "1_73" [penwidth=2.1708,dir=forward]
+"1_73" [rank =3,fontsize =28.3181, shape=box, style="rounded", color=black,label="73 msg
+dyer
+spdcc
+glutamate
+food
+effects
+brain
+studies
+humans
+blood
+olney
+foods"]
+"2_12" -> "1_87" [penwidth=1.1094,dir=forward]
+"1_87" [rank =3,fontsize =27.2708, shape=box, style="rounded", color=black,label="87 water
+cooling
+nuclear
+plants
+steam
+towers
+heat
+hot
+air
+temperature
+cool
+power"]
+"2_12" -> "1_89" [penwidth=1.6733,dir=forward]
+"1_89" [rank =3,fontsize =27.2109, shape=box, style="rounded", color=black,label="89 health
+aids
+hiv
+medical
+cancer
+number
+april
+tobacco
+hicnet
+volume
+newsletter
+children"]
+"2_12" -> "1_128" [penwidth=0.8315,dir=forward]
+"1_128" [rank =3,fontsize =25.7774, shape=box, style="rounded", color=black,label="128 cnsvax
+uwec
+nye
+nyeda
+absurd
+clinic
+bertrand
+absurdities
+eau
+claire
+philosopher
+wishes"]
+"2_12" -> "1_144" [penwidth=0.99277,dir=forward]
+"1_144" [rank =3,fontsize =25.1243, shape=box, style="rounded", color=black,label="144 jb
+ron
+gr
+medicine
+roth
+rose
+alternative
+proper
+rr
+uclink
+diseases
+berkeley"]
+"2_12" -> "1_180" [penwidth=0.88851,dir=forward]
+"1_180" [rank =3,fontsize =24.2792, shape=box, style="rounded", color=black,label="180 acidophilous
+thrush
+outbreaks
+taking
+astemizole
+gain
+linked
+resumed
+hismanal
+mccurdy
+sdsu
+ucsvax"]
+"2_12" -> "1_190" [penwidth=0.80147,dir=forward]
+"1_190" [rank =3,fontsize =24.0992, shape=box, style="rounded", color=black,label="190 zisfein
+polio
+jim
+dn
+jl
+factory
+motor
+slmr
+headache
+gb
+assignment
+pps"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_19" "1_21" "1_26" "1_67" "1_71" "1_73" "1_87" "1_89" "1_128" "1_144" "1_180" "1_190"}{rank=same; "2_12" "2_12"}{rank=same; "3_14"}{rank=same;}{rank=same;}}

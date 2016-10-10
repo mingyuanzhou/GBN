@@ -1,0 +1,362 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_9" [ rank =5,fontsize =46.429, shape=box, style="rounded", color=red, label="9 key chip government clipper
+encryption keys nsa phone
+public escrow secure new"]
+"5_9" -> "4_9" [penwidth=13.2738,dir=forward]
+"4_9" [rank =6,fontsize =45.1931, shape=box, style="rounded", color=green,label="9 government key encryption clipper
+chip nsa phone public
+keys secure crypto new"]
+"5_9" -> "4_26" [penwidth=6.3481,dir=forward]
+"4_26" [rank =6,fontsize =39.2123, shape=box, style="rounded", color=green,label="26 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"4_9" [ rank =4,fontsize =45.1931, shape=box, style="rounded", color=green, label="9 government key encryption clipper
+chip nsa phone public
+keys secure crypto new"]
+"4_9" -> "3_12" [penwidth=14.1599,dir=forward]
+"3_12" [rank =5,fontsize =46.183, shape=box, style="rounded", color=orange,label="12 government key encryption clipper
+chip nsa phone public
+keys secure crypto escrow"]
+"4_9" -> "3_32" [penwidth=4.4686,dir=forward]
+"3_32" [rank =5,fontsize =40.3026, shape=box, style="rounded", color=orange,label="32 mail thanks information internet
+email new available anonymous
+software list send address"]
+"3_12" [ rank =3,fontsize =46.183, shape=box, style="rounded", color=orange, label="12 government key encryption clipper
+chip nsa phone public
+keys secure crypto escrow"]
+"3_12" -> "2_13" [penwidth=14.6191,dir=forward]
+"2_13" [rank =4,fontsize =46.6503, shape=box, style="rounded", color=blue,label="13 government encryption clipper key
+chip nsa phone public
+secure crypto keys netcom"]
+"2_13" [ rank =2,fontsize =46.6503, shape=box, style="rounded", color=blue, label="13 government encryption clipper key
+chip nsa phone public
+secure crypto keys netcom"]
+"2_13" -> "1_1" [penwidth=8.1878,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_13" -> "1_2" [penwidth=4.2855,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_13" -> "1_7" [penwidth=1.7746,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_13" -> "1_14" [penwidth=3.9364,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_13" -> "1_16" [penwidth=9.3176,dir=forward]
+"1_16" [rank =3,fontsize =37.569, shape=box, style="rounded", color=black,label="16 clipper
+government
+chip
+key
+encryption
+nsa
+phone
+crypto
+secure
+keys
+netcom
+public"]
+"2_13" -> "1_37" [penwidth=4.5524,dir=forward]
+"1_37" [rank =3,fontsize =32.5838, shape=box, style="rounded", color=black,label="37 encryption
+law
+government
+technology
+enforcement
+chip
+clipper
+privacy
+key
+administration
+new
+protect"]
+"2_13" -> "1_50" [penwidth=1.7746,dir=forward]
+"1_50" [rank =3,fontsize =31.0213, shape=box, style="rounded", color=black,label="50 key
+ripem
+des
+rsa
+public
+pgp
+security
+cryptography
+encryption
+crypt
+message
+faq"]
+"2_13" -> "1_96" [penwidth=1.4585,dir=forward]
+"1_96" [rank =3,fontsize =27.0526, shape=box, style="rounded", color=black,label="96 holland
+colostate
+tempest
+craig
+douglas
+lethal
+rob
+protect
+cmhnet
+yuma
+acns
+bullets"]
+"3_32" [ rank =3,fontsize =40.3026, shape=box, style="rounded", color=orange, label="32 mail thanks information internet
+email new available anonymous
+software list send address"]
+"3_32" -> "2_30" [penwidth=14.8633,dir=forward]
+"2_30" [rank =4,fontsize =41.9207, shape=box, style="rounded", color=blue,label="30 mail thanks information internet
+email new available anonymous
+software list send address"]
+"2_30" [ rank =2,fontsize =41.9207, shape=box, style="rounded", color=blue, label="30 mail thanks information internet
+email new available anonymous
+software list send address"]
+"2_30" -> "1_1" [penwidth=4.3296,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_30" -> "1_2" [penwidth=5.0657,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_30" -> "1_3" [penwidth=6.2499,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_30" -> "1_6" [penwidth=6.1335,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_30" -> "1_7" [penwidth=5.5411,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_30" -> "1_49" [penwidth=6.2152,dir=forward]
+"1_49" [rank =3,fontsize =31.135, shape=box, style="rounded", color=black,label="49 anonymous
+internet
+privacy
+email
+posting
+usenet
+mail
+information
+eff
+anonymity
+users
+pub"]
+"2_30" -> "1_50" [penwidth=3.9099,dir=forward]
+"1_50" [rank =3,fontsize =31.0213, shape=box, style="rounded", color=black,label="50 key
+ripem
+des
+rsa
+public
+pgp
+security
+cryptography
+encryption
+crypt
+message
+faq"]
+"2_30" -> "1_126" [penwidth=1.9392,dir=forward]
+"1_126" [rank =3,fontsize =25.8392, shape=box, style="rounded", color=black,label="126 nist
+gov
+ncsl
+marc
+csrc
+list
+clipper
+expn
+tis
+trying
+security
+telnet"]
+"4_26" [ rank =4,fontsize =39.2123, shape=box, style="rounded", color=green, label="26 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"4_26" -> "3_31" [penwidth=14.5797,dir=forward]
+"3_31" [rank =5,fontsize =40.3959, shape=box, style="rounded", color=orange,label="31 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"3_31" [ rank =3,fontsize =40.3959, shape=box, style="rounded", color=orange, label="31 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"3_31" -> "2_31" [penwidth=14.904,dir=forward]
+"2_31" [rank =4,fontsize =41.8858, shape=box, style="rounded", color=blue,label="31 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"2_31" [ rank =2,fontsize =41.8858, shape=box, style="rounded", color=blue, label="31 key chip bit keys
+number clipper serial encrypted
+des escrow bits algorithm"]
+"2_31" -> "1_1" [penwidth=7.8797,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_31" -> "1_2" [penwidth=3.8623,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_31" -> "1_6" [penwidth=2.0235,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_31" -> "1_7" [penwidth=1.4326,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_31" -> "1_16" [penwidth=4.1429,dir=forward]
+"1_16" [rank =3,fontsize =37.569, shape=box, style="rounded", color=black,label="16 clipper
+government
+chip
+key
+encryption
+nsa
+phone
+crypto
+secure
+keys
+netcom
+public"]
+"2_31" -> "1_31" [penwidth=10.2706,dir=forward]
+"1_31" [rank =3,fontsize =34.189, shape=box, style="rounded", color=black,label="31 key
+chip
+bit
+keys
+number
+serial
+encrypted
+bits
+clipper
+escrow
+algorithm
+des"]
+"2_31" -> "1_50" [penwidth=3.4282,dir=forward]
+"1_50" [rank =3,fontsize =31.0213, shape=box, style="rounded", color=black,label="50 key
+ripem
+des
+rsa
+public
+pgp
+security
+cryptography
+encryption
+crypt
+message
+faq"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_16" "1_37" "1_50" "1_96" "1_1" "1_2" "1_3" "1_6" "1_7" "1_49" "1_50" "1_126" "1_1" "1_2" "1_6" "1_7" "1_16" "1_31" "1_50"}{rank=same; "2_13" "2_13" "2_30" "2_30" "2_31" "2_31"}{rank=same; "3_12" "3_32" "3_12" "3_32" "3_31" "3_31"}{rank=same; "4_9" "4_26" "4_9" "4_26"}{rank=same; "5_9"}}

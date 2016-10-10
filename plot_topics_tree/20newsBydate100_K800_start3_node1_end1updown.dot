@@ -1,0 +1,333 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_1" [ rank =3,fontsize =50, shape=box, style="rounded", color=orange, label="1 thanks mail email information
+help fax software info
+advance looking new hi"]
+"3_1" -> "2_1" [penwidth=13.8512,dir=forward]
+"2_1" [rank =4,fontsize =50, shape=box, style="rounded", color=blue,label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"3_1" -> "2_26" [penwidth=5.5721,dir=forward]
+"2_26" [rank =4,fontsize =43.3529, shape=box, style="rounded", color=blue,label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_1" [ rank =2,fontsize =50, shape=box, style="rounded", color=blue, label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"2_1" -> "1_1" [penwidth=4.9616,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_1" -> "1_2" [penwidth=4.5247,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_1" -> "1_3" [penwidth=9.7294,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_1" -> "1_6" [penwidth=6.2271,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_1" -> "1_7" [penwidth=4.0409,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_1" -> "1_39" [penwidth=1.0039,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_1" -> "1_42" [penwidth=2.8686,dir=forward]
+"1_42" [rank =3,fontsize =31.7793, shape=box, style="rounded", color=black,label="42 graphics
+ftp
+pub
+data
+ray
+risc
+contact
+sgi
+machines
+pc
+instruction
+mail"]
+"2_1" -> "1_56" [penwidth=1.8844,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_1" -> "1_59" [penwidth=1.8251,dir=forward]
+"1_59" [rank =3,fontsize =29.5996, shape=box, style="rounded", color=black,label="59 au
+australia
+oz
+mark
+philips
+canberra
+melbourne
+qdeck
+uwa
+quarterdeck
+network
+prl"]
+"2_1" -> "1_69" [penwidth=1.6249,dir=forward]
+"1_69" [rank =3,fontsize =28.6849, shape=box, style="rounded", color=black,label="69 graphics
+group
+ch
+comp
+umich
+split
+aspects
+groups
+engin
+radiosity
+grafsys
+hidden"]
+"2_1" -> "1_79" [penwidth=1.0039,dir=forward]
+"1_79" [rank =3,fontsize =27.7548, shape=box, style="rounded", color=black,label="79 sgi
+upgrade
+graphics
+silicon
+ucsd
+demers
+product
+diego
+iw
+path
+sales
+customers"]
+"2_1" -> "1_91" [penwidth=1.2416,dir=forward]
+"1_91" [rank =3,fontsize =27.1346, shape=box, style="rounded", color=black,label="91 image
+processing
+analysis
+plplot
+images
+sphinx
+plots
+screen
+data
+hips
+plotting
+tube"]
+"2_1" -> "1_111" [penwidth=1.0194,dir=forward]
+"1_111" [rank =3,fontsize =26.3733, shape=box, style="rounded", color=black,label="111 points
+sphere
+plane
+center
+circle
+bolson
+line
+radius
+washington
+coplanar
+solution
+surface"]
+"2_26" [ rank =2,fontsize =43.3529, shape=box, style="rounded", color=blue, label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_26" -> "1_1" [penwidth=6.1469,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_26" -> "1_3" [penwidth=6.1376,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_26" -> "1_6" [penwidth=3.8177,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_26" -> "1_8" [penwidth=3.906,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_26" -> "1_22" [penwidth=1.0175,dir=forward]
+"1_22" [rank =3,fontsize =36.1439, shape=box, style="rounded", color=black,label="22 space
+nasa
+earth
+orbit
+gov
+data
+shuttle
+mission
+lunar
+spacecraft
+solar
+jpl"]
+"2_26" -> "1_27" [penwidth=9.9267,dir=forward]
+"1_27" [rank =3,fontsize =35.1674, shape=box, style="rounded", color=black,label="27 image
+jpeg
+gif
+color
+files
+file
+images
+format
+bit
+display
+graphics
+program"]
+"2_26" -> "1_39" [penwidth=2.082,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_26" -> "1_53" [penwidth=1.8811,dir=forward]
+"1_53" [rank =3,fontsize =30.0303, shape=box, style="rounded", color=black,label="53 printer
+hp
+print
+laser
+ink
+printers
+deskjet
+postscript
+bj
+canon
+quality
+toner"]
+"2_26" -> "1_131" [penwidth=1.072,dir=forward]
+"1_131" [rank =3,fontsize =25.559, shape=box, style="rounded", color=black,label="131 tiff
+spec
+alice
+galki
+toppoint
+joachim
+number
+guide
+suggestions
+ulrich
+manchester
+king"]
+"2_26" -> "1_218" [penwidth=1.0175,dir=forward]
+"1_218" [rank =3,fontsize =23.3998, shape=box, style="rounded", color=black,label="218 entry
+entries
+program
+rules
+section
+info
+files
+build
+file
+number
+source
+winners"]
+"2_26" -> "1_245" [penwidth=0.83308,dir=forward]
+"1_245" [rank =3,fontsize =22.9048, shape=box, style="rounded", color=black,label="245 scodal
+corel
+bitmap
+jeff
+toby
+lyall
+coreldraw
+qcr
+glasgow
+format
+grad
+main"]
+{rank=same; "1_1" "1_2" "1_3" "1_6" "1_7" "1_39" "1_42" "1_56" "1_59" "1_69" "1_79" "1_91" "1_111" "1_1" "1_3" "1_6" "1_8" "1_22" "1_27" "1_39" "1_53" "1_131" "1_218" "1_245"}{rank=same; "2_1" "2_26" "2_1" "2_26"}{rank=same; "3_1"}{rank=same;}{rank=same;}}

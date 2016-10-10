@@ -1,0 +1,170 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_7" [ rank =3,fontsize =47.5897, shape=box, style="rounded", color=orange, label="7 year game team baseball
+runs games season players
+hit win league years"]
+"3_7" -> "2_7" [penwidth=14.9393,dir=forward]
+"2_7" [rank =4,fontsize =48.2896, shape=box, style="rounded", color=blue,label="7 year game team baseball
+runs games season players
+hit win league years"]
+"2_7" [ rank =2,fontsize =48.2896, shape=box, style="rounded", color=blue, label="7 year game team baseball
+runs games season players
+hit win league years"]
+"2_7" -> "1_1" [penwidth=7.2144,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_7" -> "1_2" [penwidth=6.153,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_7" -> "1_10" [penwidth=10.6512,dir=forward]
+"1_10" [rank =3,fontsize =39.7848, shape=box, style="rounded", color=black,label="10 year
+game
+team
+baseball
+runs
+games
+season
+players
+hit
+win
+league
+pitching"]
+"2_7" -> "1_11" [penwidth=1.204,dir=forward]
+"1_11" [rank =3,fontsize =39.7004, shape=box, style="rounded", color=black,label="11 team
+game
+hockey
+season
+games
+nhl
+year
+league
+teams
+players
+play
+cup"]
+"2_7" -> "1_26" [penwidth=1.2904,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_7" -> "1_52" [penwidth=2.4878,dir=forward]
+"1_52" [rank =3,fontsize =30.4967, shape=box, style="rounded", color=black,label="52 won
+lost
+san
+new
+kaldis
+rutgers
+york
+houston
+st
+astros
+louis
+reds"]
+"2_7" -> "1_72" [penwidth=1.1109,dir=forward]
+"1_72" [rank =3,fontsize =28.348, shape=box, style="rounded", color=black,label="72 gatech
+prism
+gt
+georgia
+atlanta
+technology
+institute
+internet
+uucp
+gilkey
+hydra
+lankford"]
+"2_7" -> "1_82" [penwidth=1.5992,dir=forward]
+"1_82" [rank =3,fontsize =27.5562, shape=box, style="rounded", color=black,label="82 hall
+dave
+fame
+smith
+eddie
+murray
+winfield
+kingman
+yount
+steve
+guys
+bsu"]
+"2_7" -> "1_110" [penwidth=1.3022,dir=forward]
+"1_110" [rank =3,fontsize =26.3948, shape=box, style="rounded", color=black,label="110 jewish
+come
+vb
+lafibm
+lafayette
+baseball
+koufax
+lowenstein
+stankowitz
+past
+asd
+names"]
+"2_7" -> "1_155" [penwidth=0.87892,dir=forward]
+"1_155" [rank =3,fontsize =24.7268, shape=box, style="rounded", color=black,label="155 alomar
+baerga
+obp
+niguma
+bgsu
+gord
+quit
+slg
+andy
+dal
+rudy
+xenon"]
+"2_7" -> "1_156" [penwidth=0.89626,dir=forward]
+"1_156" [rank =3,fontsize =24.7198, shape=box, style="rounded", color=black,label="156 wip
+sports
+fan
+station
+radio
+philadelphia
+eagles
+lupica
+listen
+hosts
+wfan
+virginia"]
+"2_7" -> "1_178" [penwidth=0.82473,dir=forward]
+"1_178" [rank =3,fontsize =24.3075, shape=box, style="rounded", color=black,label="178 uiuc
+defensive
+steph
+stephenson
+dale
+gaetti
+average
+twins
+leius
+liability
+ozzie
+golden"]
+{rank=same; "1_1" "1_2" "1_10" "1_11" "1_26" "1_52" "1_72" "1_82" "1_110" "1_155" "1_156" "1_178"}{rank=same; "2_7" "2_7"}{rank=same; "3_7"}{rank=same;}{rank=same;}}

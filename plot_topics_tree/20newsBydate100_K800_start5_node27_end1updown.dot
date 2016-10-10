@@ -1,0 +1,539 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_27" [ rank =5,fontsize =40.1019, shape=box, style="rounded", color=red, label="27 men cramer gay new
+homosexual sexual optilink said
+believe state government law"]
+"5_27" -> "4_10" [penwidth=7.727,dir=forward]
+"4_10" [rank =6,fontsize =45.0721, shape=box, style="rounded", color=green,label="10 gun koresh fbi believe
+batf said government guns
+children gas compound stratus"]
+"5_27" -> "4_23" [penwidth=12.016,dir=forward]
+"4_23" [rank =6,fontsize =40.9209, shape=box, style="rounded", color=green,label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_10" [ rank =4,fontsize =45.0721, shape=box, style="rounded", color=green, label="10 gun koresh fbi believe
+batf said government guns
+children gas compound stratus"]
+"4_10" -> "3_13" [penwidth=9.2773,dir=forward]
+"3_13" [rank =5,fontsize =45.9571, shape=box, style="rounded", color=orange,label="13 gun guns firearms crime
+control law weapons state
+new self government said"]
+"4_10" -> "3_21" [penwidth=11.2478,dir=forward]
+"3_21" [rank =5,fontsize =44.0453, shape=box, style="rounded", color=orange,label="21 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"3_13" [ rank =3,fontsize =45.9571, shape=box, style="rounded", color=orange, label="13 gun guns firearms crime
+control law weapons state
+new self government said"]
+"3_13" -> "2_14" [penwidth=14.6155,dir=forward]
+"2_14" [rank =4,fontsize =46.4877, shape=box, style="rounded", color=blue,label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"2_14" [ rank =2,fontsize =46.4877, shape=box, style="rounded", color=blue, label="14 gun guns firearms crime
+control law weapons state
+new self government public"]
+"2_14" -> "1_1" [penwidth=8.8402,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_14" -> "1_2" [penwidth=4.8125,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_14" -> "1_7" [penwidth=3.0052,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_14" -> "1_14" [penwidth=5.3489,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_14" -> "1_23" [penwidth=7.9301,dir=forward]
+"1_23" [rank =3,fontsize =36.0426, shape=box, style="rounded", color=black,label="23 gun
+guns
+firearms
+crime
+control
+weapons
+self
+criminals
+defense
+handgun
+firearm
+violent"]
+"2_14" -> "1_26" [penwidth=1.9489,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_14" -> "1_76" [penwidth=1.9264,dir=forward]
+"1_76" [rank =3,fontsize =28.2238, shape=box, style="rounded", color=black,label="76 militia
+amendment
+arms
+bear
+second
+constitution
+regulated
+government
+shall
+state
+ulowell
+organized"]
+"2_14" -> "1_92" [penwidth=1.5217,dir=forward]
+"1_92" [rank =3,fontsize =27.1228, shape=box, style="rounded", color=black,label="92 weapons
+iastate
+dan
+nuclear
+viking
+sorenson
+destruction
+weapon
+homosexuality
+isu
+roehm
+unusual"]
+"3_21" [ rank =3,fontsize =44.0453, shape=box, style="rounded", color=orange, label="21 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"3_21" -> "2_22" [penwidth=14.8249,dir=forward]
+"2_22" [rank =4,fontsize =44.7156, shape=box, style="rounded", color=blue,label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" [ rank =2,fontsize =44.7156, shape=box, style="rounded", color=blue, label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" -> "1_1" [penwidth=7.3356,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_22" -> "1_2" [penwidth=6.2786,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_22" -> "1_4" [penwidth=1.9562,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_22" -> "1_14" [penwidth=2.8336,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_22" -> "1_24" [penwidth=9.5292,dir=forward]
+"1_24" [rank =3,fontsize =35.9525, shape=box, style="rounded", color=black,label="24 koresh
+fbi
+batf
+gas
+stratus
+compound
+waco
+children
+atf
+cdt
+believe
+government"]
+"2_22" -> "1_26" [penwidth=2.6477,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_22" -> "1_60" [penwidth=3.2127,dir=forward]
+"1_60" [rank =3,fontsize =29.5728, shape=box, style="rounded", color=black,label="60 roby
+fbi
+udel
+handheld
+jim
+jmd
+chopin
+clinton
+scott
+children
+idbsu
+affair"]
+"2_22" -> "1_122" [penwidth=1.5779,dir=forward]
+"1_122" [rank =3,fontsize =26.0831, shape=box, style="rounded", color=black,label="122 irvine
+uiuc
+cso
+wpi
+stove
+brent
+electric
+uxh
+ccwf
+stratus
+mikey
+cold"]
+"4_23" [ rank =4,fontsize =40.9209, shape=box, style="rounded", color=green, label="23 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality state new"]
+"4_23" -> "3_3" [penwidth=3.9129,dir=forward]
+"3_3" [rank =5,fontsize =48.4599, shape=box, style="rounded", color=orange,label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"4_23" -> "3_27" [penwidth=13.745,dir=forward]
+"3_27" [rank =5,fontsize =41.727, shape=box, style="rounded", color=orange,label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_3" [ rank =3,fontsize =48.4599, shape=box, style="rounded", color=orange, label="3 god jesus believe christian
+bible true question life
+christians said faith christ"]
+"3_3" -> "2_5" [penwidth=10.9848,dir=forward]
+"2_5" [rank =4,fontsize =48.7646, shape=box, style="rounded", color=blue,label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"3_3" -> "2_17" [penwidth=10.1637,dir=forward]
+"2_17" [rank =4,fontsize =45.6348, shape=box, style="rounded", color=blue,label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_5" [ rank =2,fontsize =48.7646, shape=box, style="rounded", color=blue, label="5 god jesus christian bible
+christ believe christians life
+man faith said come"]
+"2_5" -> "1_1" [penwidth=8.7148,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_5" -> "1_2" [penwidth=5.5705,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_5" -> "1_4" [penwidth=9.8213,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_5" -> "1_55" [penwidth=1.5769,dir=forward]
+"1_55" [rank =3,fontsize =29.6875, shape=box, style="rounded", color=black,label="55 uga
+georgia
+michael
+ai
+covington
+mcovingt
+easter
+programs
+jayne
+athens
+amateur
+research"]
+"2_5" -> "1_64" [penwidth=1.6528,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"2_5" -> "1_101" [penwidth=1.3347,dir=forward]
+"1_101" [rank =3,fontsize =26.8644, shape=box, style="rounded", color=black,label="101 matthew
+prophecy
+tomb
+king
+messiah
+prophecies
+isaiah
+jesus
+testament
+disciples
+josephus
+psalm"]
+"2_17" [ rank =2,fontsize =45.6348, shape=box, style="rounded", color=blue, label="17 god science believe evidence
+atheism question exist true
+atheists existence reason belief"]
+"2_17" -> "1_1" [penwidth=8.6385,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_17" -> "1_2" [penwidth=5.2765,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_17" -> "1_14" [penwidth=2.1241,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_17" -> "1_19" [penwidth=9.2158,dir=forward]
+"1_19" [rank =3,fontsize =37.284, shape=box, style="rounded", color=black,label="19 god
+science
+evidence
+atheism
+exist
+atheists
+existence
+believe
+belief
+true
+atheist
+religion"]
+"2_17" -> "1_39" [penwidth=1.631,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_17" -> "1_63" [penwidth=2.9089,dir=forward]
+"1_63" [rank =3,fontsize =29.2582, shape=box, style="rounded", color=black,label="63 rit
+isc
+ultb
+bobby
+mozumder
+snm
+religious
+religion
+eric
+mom
+atheist
+men"]
+"2_17" -> "1_70" [penwidth=2.345,dir=forward]
+"1_70" [rank =3,fontsize =28.4291, shape=box, style="rounded", color=black,label="70 umd
+wam
+mangoe
+wingate
+charley
+text
+peace
+luke
+revelation
+kmr
+matthew
+po"]
+"2_17" -> "1_88" [penwidth=1.3854,dir=forward]
+"1_88" [rank =3,fontsize =27.2275, shape=box, style="rounded", color=black,label="88 truth
+absolute
+absolutes
+scripture
+christians
+truths
+arrogant
+true
+arrogance
+bible
+believe
+claim"]
+"3_27" [ rank =3,fontsize =41.727, shape=box, style="rounded", color=orange, label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_27" -> "2_29" [penwidth=14.5401,dir=forward]
+"2_29" [rank =4,fontsize =42.4406, shape=box, style="rounded", color=blue,label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" [ rank =2,fontsize =42.4406, shape=box, style="rounded", color=blue, label="29 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male law"]
+"2_29" -> "1_1" [penwidth=7.8532,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_29" -> "1_2" [penwidth=6.2188,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_29" -> "1_14" [penwidth=5.1168,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_29" -> "1_33" [penwidth=8.9837,dir=forward]
+"1_33" [rank =3,fontsize =33.7531, shape=box, style="rounded", color=black,label="33 cramer
+men
+gay
+homosexual
+optilink
+sexual
+clayton
+sex
+homosexuals
+homosexuality
+male
+virginia"]
+"2_29" -> "1_103" [penwidth=1.3395,dir=forward]
+"1_103" [rank =3,fontsize =26.794, shape=box, style="rounded", color=black,label="103 government
+isc
+br
+thor
+steveh
+hendricks
+steve
+libertarians
+regulation
+libertarian
+free
+uucp"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_23" "1_26" "1_76" "1_92" "1_1" "1_2" "1_4" "1_14" "1_24" "1_26" "1_60" "1_122" "1_1" "1_2" "1_4" "1_55" "1_64" "1_101" "1_1" "1_2" "1_14" "1_19" "1_39" "1_63" "1_70" "1_88" "1_1" "1_2" "1_14" "1_33" "1_103"}{rank=same; "2_14" "2_14" "2_22" "2_22" "2_5" "2_17" "2_5" "2_17" "2_29" "2_29"}{rank=same; "3_13" "3_21" "3_13" "3_21" "3_3" "3_27" "3_3" "3_27"}{rank=same; "4_10" "4_23" "4_10" "4_23"}{rank=same; "5_27"}}

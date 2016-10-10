@@ -1,0 +1,629 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_17" [ rank =5,fontsize =43.135, shape=box, style="rounded", color=red, label="17 thanks drive card mail
+work mac new bit
+apple problem power mb"]
+"5_17" -> "4_3" [penwidth=9.7023,dir=forward]
+"4_3" [rank =6,fontsize =49.1936, shape=box, style="rounded", color=green,label="3 card thanks mac apple
+bit drive mail video
+mb monitor work problem"]
+"5_17" -> "4_14" [penwidth=9.4856,dir=forward]
+"4_14" [rank =6,fontsize =43.8842, shape=box, style="rounded", color=green,label="14 thanks power mail work
+output high input using
+new line chip phone"]
+"5_17" -> "4_19" [penwidth=4.5631,dir=forward]
+"4_19" [rank =6,fontsize =41.6383, shape=box, style="rounded", color=green,label="19 drive disk scsi hard
+drives mb thanks windows
+controller mail floppy ide"]
+"4_3" [ rank =4,fontsize =49.1936, shape=box, style="rounded", color=green, label="3 card thanks mac apple
+bit drive mail video
+mb monitor work problem"]
+"4_3" -> "3_2" [penwidth=11.6898,dir=forward]
+"3_2" [rank =5,fontsize =48.8415, shape=box, style="rounded", color=orange,label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"4_3" -> "3_15" [penwidth=7.3245,dir=forward]
+"3_15" [rank =5,fontsize =45.3923, shape=box, style="rounded", color=orange,label="15 card monitor video vga
+windows thanks drivers cards
+mode mail graphics ati"]
+"4_3" -> "3_16" [penwidth=5.4136,dir=forward]
+"3_16" [rank =5,fontsize =45.2822, shape=box, style="rounded", color=orange,label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"3_2" [ rank =3,fontsize =48.8415, shape=box, style="rounded", color=orange, label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"3_2" -> "2_2" [penwidth=14.8413,dir=forward]
+"2_2" [rank =4,fontsize =49.5009, shape=box, style="rounded", color=blue,label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" [ rank =2,fontsize =49.5009, shape=box, style="rounded", color=blue, label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" -> "1_1" [penwidth=6.8006,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_2" -> "1_2" [penwidth=4.3938,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_2" -> "1_3" [penwidth=5.7293,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_2" -> "1_5" [penwidth=10.3091,dir=forward]
+"1_5" [rank =3,fontsize =40.7526, shape=box, style="rounded", color=black,label="5 mac
+apple
+mhz
+modem
+ram
+bit
+card
+speed
+port
+board
+simms
+memory"]
+"2_2" -> "1_8" [penwidth=1.6655,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_2" -> "1_20" [penwidth=2.3394,dir=forward]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"2_2" -> "1_36" [penwidth=1.8243,dir=forward]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"3_15" [ rank =3,fontsize =45.3923, shape=box, style="rounded", color=orange, label="15 card monitor video vga
+windows thanks drivers cards
+mode mail graphics ati"]
+"3_15" -> "2_16" [penwidth=14.5917,dir=forward]
+"2_16" [rank =4,fontsize =45.911, shape=box, style="rounded", color=blue,label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"2_16" [ rank =2,fontsize =45.911, shape=box, style="rounded", color=blue, label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"2_16" -> "1_1" [penwidth=5.7195,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_16" -> "1_2" [penwidth=3.7046,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_16" -> "1_3" [penwidth=6.7582,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_16" -> "1_6" [penwidth=2.466,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_16" -> "1_8" [penwidth=3.812,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_16" -> "1_17" [penwidth=10.3261,dir=forward]
+"1_17" [rank =3,fontsize =37.5683, shape=box, style="rounded", color=black,label="17 card
+monitor
+video
+vga
+drivers
+cards
+mode
+ati
+graphics
+screen
+svga
+driver"]
+"3_16" [ rank =3,fontsize =45.2822, shape=box, style="rounded", color=orange, label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"3_16" -> "2_15" [penwidth=14.8692,dir=forward]
+"2_15" [rank =4,fontsize =45.9432, shape=box, style="rounded", color=blue,label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" [ rank =2,fontsize =45.9432, shape=box, style="rounded", color=blue, label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" -> "1_1" [penwidth=6.9457,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_15" -> "1_2" [penwidth=4.0415,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_15" -> "1_3" [penwidth=6.2502,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_15" -> "1_8" [penwidth=4.6893,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_15" -> "1_20" [penwidth=8.0057,dir=forward]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"2_15" -> "1_36" [penwidth=4.8515,dir=forward]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"2_15" -> "1_104" [penwidth=1.8056,dir=forward]
+"1_104" [rank =3,fontsize =26.7458, shape=box, style="rounded", color=black,label="104 tape
+adaptec
+aspi
+backup
+sys
+tapes
+jumbo
+cdrom
+scsiha
+timing
+unit
+colorado"]
+"4_14" [ rank =4,fontsize =43.8842, shape=box, style="rounded", color=green, label="14 thanks power mail work
+output high input using
+new line chip phone"]
+"4_14" -> "3_2" [penwidth=6.141,dir=forward]
+"3_2" [rank =5,fontsize =48.8415, shape=box, style="rounded", color=orange,label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"4_14" -> "3_11" [penwidth=13.3149,dir=forward]
+"3_11" [rank =5,fontsize =46.34, shape=box, style="rounded", color=orange,label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"3_2" [ rank =3,fontsize =48.8415, shape=box, style="rounded", color=orange, label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"2_2" [rank =4,fontsize =49.5009, shape=box, style="rounded", color=blue,label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" [ rank =2,fontsize =49.5009, shape=box, style="rounded", color=blue, label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"1_5" [rank =3,fontsize =40.7526, shape=box, style="rounded", color=black,label="5 mac
+apple
+mhz
+modem
+ram
+bit
+card
+speed
+port
+board
+simms
+memory"]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"3_11" [ rank =3,fontsize =46.34, shape=box, style="rounded", color=orange, label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"3_11" -> "2_10" [penwidth=14.9676,dir=forward]
+"2_10" [rank =4,fontsize =47.5289, shape=box, style="rounded", color=blue,label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" [ rank =2,fontsize =47.5289, shape=box, style="rounded", color=blue, label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" -> "1_1" [penwidth=7.4733,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_10" -> "1_2" [penwidth=3.8111,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_10" -> "1_3" [penwidth=5.6776,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_10" -> "1_6" [penwidth=1.416,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_10" -> "1_7" [penwidth=1.4515,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_10" -> "1_13" [penwidth=10.0266,dir=forward]
+"1_13" [rank =3,fontsize =38.6139, shape=box, style="rounded", color=black,label="13 power
+output
+input
+high
+signal
+low
+voltage
+chip
+radio
+battery
+circuit
+data"]
+"2_10" -> "1_51" [penwidth=2.8542,dir=forward]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"4_19" [ rank =4,fontsize =41.6383, shape=box, style="rounded", color=green, label="19 drive disk scsi hard
+drives mb thanks windows
+controller mail floppy ide"]
+"4_19" -> "3_16" [penwidth=14.4069,dir=forward]
+"3_16" [rank =5,fontsize =45.2822, shape=box, style="rounded", color=orange,label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"3_16" [ rank =3,fontsize =45.2822, shape=box, style="rounded", color=orange, label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" [rank =4,fontsize =45.9432, shape=box, style="rounded", color=blue,label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" [ rank =2,fontsize =45.9432, shape=box, style="rounded", color=blue, label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"1_104" [rank =3,fontsize =26.7458, shape=box, style="rounded", color=black,label="104 tape
+adaptec
+aspi
+backup
+sys
+tapes
+jumbo
+cdrom
+scsiha
+timing
+unit
+colorado"]
+{rank=same; "1_1" "1_2" "1_3" "1_5" "1_8" "1_20" "1_36" "1_1" "1_2" "1_3" "1_6" "1_8" "1_17" "1_1" "1_2" "1_3" "1_8" "1_20" "1_36" "1_104" "1_1" "1_2" "1_3" "1_5" "1_8" "1_20" "1_36" "1_1" "1_2" "1_3" "1_6" "1_7" "1_13" "1_51" "1_1" "1_2" "1_3" "1_8" "1_20" "1_36" "1_104"}{rank=same; "2_2" "2_2" "2_16" "2_16" "2_15" "2_15" "2_2" "2_2" "2_10" "2_10" "2_15" "2_15"}{rank=same; "3_2" "3_15" "3_16" "3_2" "3_15" "3_16" "3_2" "3_11" "3_2" "3_11" "3_16" "3_16"}{rank=same; "4_3" "4_14" "4_19" "4_3" "4_14" "4_19"}{rank=same; "5_17"}}

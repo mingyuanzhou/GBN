@@ -1,0 +1,144 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_2" [ rank =3,fontsize =48.8415, shape=box, style="rounded", color=orange, label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"3_2" -> "2_2" [penwidth=14.8413,dir=forward]
+"2_2" [rank =4,fontsize =49.5009, shape=box, style="rounded", color=blue,label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" [ rank =2,fontsize =49.5009, shape=box, style="rounded", color=blue, label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" -> "1_1" [penwidth=6.8006,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_2" -> "1_2" [penwidth=4.3938,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_2" -> "1_3" [penwidth=5.7293,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_2" -> "1_5" [penwidth=10.3091,dir=forward]
+"1_5" [rank =3,fontsize =40.7526, shape=box, style="rounded", color=black,label="5 mac
+apple
+mhz
+modem
+ram
+bit
+card
+speed
+port
+board
+simms
+memory"]
+"2_2" -> "1_7" [penwidth=0.79308,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_2" -> "1_8" [penwidth=1.6655,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_2" -> "1_20" [penwidth=2.3394,dir=forward]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"2_2" -> "1_36" [penwidth=1.8243,dir=forward]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"2_2" -> "1_102" [penwidth=0.94555,dir=forward]
+"1_102" [rank =3,fontsize =26.8187, shape=box, style="rounded", color=black,label="102 arbor
+ann
+ns
+simms
+hal
+mi
+usenet
+dec
+misc
+kmail
+wide
+uses"]
+"2_2" -> "1_123" [penwidth=0.91971,dir=forward]
+"1_123" [rank =3,fontsize =26.0417, shape=box, style="rounded", color=black,label="123 mouse
+adb
+ball
+motion
+waikato
+smoothly
+bit
+jump
+byu
+using
+open
+serial"]
+{rank=same; "1_1" "1_2" "1_3" "1_5" "1_7" "1_8" "1_20" "1_36" "1_102" "1_123"}{rank=same; "2_2" "2_2"}{rank=same; "3_2"}{rank=same;}{rank=same;}}

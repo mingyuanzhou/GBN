@@ -1,0 +1,157 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_21" [ rank =3,fontsize =44.0453, shape=box, style="rounded", color=orange, label="21 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"3_21" -> "2_22" [penwidth=14.8249,dir=forward]
+"2_22" [rank =4,fontsize =44.7156, shape=box, style="rounded", color=blue,label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" [ rank =2,fontsize =44.7156, shape=box, style="rounded", color=blue, label="22 koresh fbi batf believe
+gas compound children stratus
+waco said atf government"]
+"2_22" -> "1_1" [penwidth=7.3356,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_22" -> "1_2" [penwidth=6.2786,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_22" -> "1_4" [penwidth=1.9562,dir=forward]
+"1_4" [rank =3,fontsize =40.756, shape=box, style="rounded", color=black,label="4 god
+jesus
+christian
+bible
+christ
+christians
+life
+faith
+believe
+man
+christianity
+church"]
+"2_22" -> "1_14" [penwidth=2.8336,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_22" -> "1_24" [penwidth=9.5292,dir=forward]
+"1_24" [rank =3,fontsize =35.9525, shape=box, style="rounded", color=black,label="24 koresh
+fbi
+batf
+gas
+stratus
+compound
+waco
+children
+atf
+cdt
+believe
+government"]
+"2_22" -> "1_26" [penwidth=2.6477,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_22" -> "1_60" [penwidth=3.2127,dir=forward]
+"1_60" [rank =3,fontsize =29.5728, shape=box, style="rounded", color=black,label="60 roby
+fbi
+udel
+handheld
+jim
+jmd
+chopin
+clinton
+scott
+children
+idbsu
+affair"]
+"2_22" -> "1_64" [penwidth=1.3136,dir=forward]
+"1_64" [rank =3,fontsize =28.9778, shape=box, style="rounded", color=black,label="64 sandvik
+kent
+apple
+newton
+private
+alink
+ksand
+activities
+net
+cheers
+order
+royalroads"]
+"2_22" -> "1_99" [penwidth=0.80194,dir=forward]
+"1_99" [rank =3,fontsize =26.9258, shape=box, style="rounded", color=black,label="99 pat
+rwing
+clinton
+uucp
+myrto
+wa
+administration
+zinc
+infinite
+albert
+ucc
+uunet"]
+"2_22" -> "1_122" [penwidth=1.5779,dir=forward]
+"1_122" [rank =3,fontsize =26.0831, shape=box, style="rounded", color=black,label="122 irvine
+uiuc
+cso
+wpi
+stove
+brent
+electric
+uxh
+ccwf
+stratus
+mikey
+cold"]
+"2_22" -> "1_192" [penwidth=1.0735,dir=forward]
+"1_192" [rank =3,fontsize =23.9578, shape=box, style="rounded", color=black,label="192 cmuvm
+aej
+bitnet
+slaughter
+hoped
+cnn
+god
+nazis
+buildings
+wrong
+stove
+repeat"]
+{rank=same; "1_1" "1_2" "1_4" "1_14" "1_24" "1_26" "1_60" "1_64" "1_99" "1_122" "1_192"}{rank=same; "2_22" "2_22"}{rank=same; "3_21"}{rank=same;}{rank=same;}}

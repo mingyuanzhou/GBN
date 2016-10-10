@@ -1,0 +1,472 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_12" [ rank =5,fontsize =45.2106, shape=box, style="rounded", color=red, label="12 thanks new mail power
+email work phone high
+help sale price using"]
+"5_12" -> "4_14" [penwidth=10.5937,dir=forward]
+"4_14" [rank =6,fontsize =43.8842, shape=box, style="rounded", color=green,label="14 thanks power mail work
+output high input using
+new line chip phone"]
+"5_12" -> "4_17" [penwidth=10.2839,dir=forward]
+"4_17" [rank =6,fontsize =42.3335, shape=box, style="rounded", color=green,label="17 new thanks mail sale
+shipping email offer price
+interested condition best power"]
+"4_14" [ rank =4,fontsize =43.8842, shape=box, style="rounded", color=green, label="14 thanks power mail work
+output high input using
+new line chip phone"]
+"4_14" -> "3_2" [penwidth=6.141,dir=forward]
+"3_2" [rank =5,fontsize =48.8415, shape=box, style="rounded", color=orange,label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"4_14" -> "3_11" [penwidth=13.3149,dir=forward]
+"3_11" [rank =5,fontsize =46.34, shape=box, style="rounded", color=orange,label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"3_2" [ rank =3,fontsize =48.8415, shape=box, style="rounded", color=orange, label="2 mac apple thanks bit
+mhz card modem ram
+speed port board memory"]
+"3_2" -> "2_2" [penwidth=14.8413,dir=forward]
+"2_2" [rank =4,fontsize =49.5009, shape=box, style="rounded", color=blue,label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" [ rank =2,fontsize =49.5009, shape=box, style="rounded", color=blue, label="2 mac apple thanks bit
+mhz modem card ram
+speed port board memory"]
+"2_2" -> "1_1" [penwidth=6.8006,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_2" -> "1_2" [penwidth=4.3938,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_2" -> "1_3" [penwidth=5.7293,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_2" -> "1_5" [penwidth=10.3091,dir=forward]
+"1_5" [rank =3,fontsize =40.7526, shape=box, style="rounded", color=black,label="5 mac
+apple
+mhz
+modem
+ram
+bit
+card
+speed
+port
+board
+simms
+memory"]
+"2_2" -> "1_8" [penwidth=1.6655,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_2" -> "1_20" [penwidth=2.3394,dir=forward]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"2_2" -> "1_36" [penwidth=1.8243,dir=forward]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"3_11" [ rank =3,fontsize =46.34, shape=box, style="rounded", color=orange, label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"3_11" -> "2_10" [penwidth=14.9676,dir=forward]
+"2_10" [rank =4,fontsize =47.5289, shape=box, style="rounded", color=blue,label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" [ rank =2,fontsize =47.5289, shape=box, style="rounded", color=blue, label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" -> "1_1" [penwidth=7.4733,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_10" -> "1_2" [penwidth=3.8111,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_10" -> "1_3" [penwidth=5.6776,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_10" -> "1_6" [penwidth=1.416,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_10" -> "1_7" [penwidth=1.4515,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_10" -> "1_13" [penwidth=10.0266,dir=forward]
+"1_13" [rank =3,fontsize =38.6139, shape=box, style="rounded", color=black,label="13 power
+output
+input
+high
+signal
+low
+voltage
+chip
+radio
+battery
+circuit
+data"]
+"2_10" -> "1_51" [penwidth=2.8542,dir=forward]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"4_17" [ rank =4,fontsize =42.3335, shape=box, style="rounded", color=green, label="17 new thanks mail sale
+shipping email offer price
+interested condition best power"]
+"4_17" -> "3_11" [penwidth=9.7498,dir=forward]
+"3_11" [rank =5,fontsize =46.34, shape=box, style="rounded", color=orange,label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"4_17" -> "3_22" [penwidth=10.9459,dir=forward]
+"3_22" [rank =5,fontsize =43.1058, shape=box, style="rounded", color=orange,label="22 new sale shipping thanks
+mail offer price condition
+email interested asking best"]
+"3_11" [ rank =3,fontsize =46.34, shape=box, style="rounded", color=orange, label="11 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" [rank =4,fontsize =47.5289, shape=box, style="rounded", color=blue,label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"2_10" [ rank =2,fontsize =47.5289, shape=box, style="rounded", color=blue, label="10 power thanks mail output
+input high work line
+using low phone circuit"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"1_13" [rank =3,fontsize =38.6139, shape=box, style="rounded", color=black,label="13 power
+output
+input
+high
+signal
+low
+voltage
+chip
+radio
+battery
+circuit
+data"]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"3_22" [ rank =3,fontsize =43.1058, shape=box, style="rounded", color=orange, label="22 new sale shipping thanks
+mail offer price condition
+email interested asking best"]
+"3_22" -> "2_25" [penwidth=14.7368,dir=forward]
+"2_25" [rank =4,fontsize =43.6507, shape=box, style="rounded", color=blue,label="25 new sale shipping thanks
+mail offer price condition
+email interested asking sell"]
+"2_25" [ rank =2,fontsize =43.6507, shape=box, style="rounded", color=blue, label="25 new sale shipping thanks
+mail offer price condition
+email interested asking sell"]
+"2_25" -> "1_2" [penwidth=2.6175,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_25" -> "1_3" [penwidth=6.6269,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_25" -> "1_7" [penwidth=4.3591,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_25" -> "1_9" [penwidth=4.4403,dir=forward]
+"1_9" [rank =3,fontsize =40.0639, shape=box, style="rounded", color=black,label="9 car
+cars
+engine
+miles
+dealer
+new
+price
+drive
+road
+speed
+ford
+buy"]
+"2_25" -> "1_12" [penwidth=10.5016,dir=forward]
+"1_12" [rank =3,fontsize =39.1159, shape=box, style="rounded", color=black,label="12 sale
+new
+shipping
+offer
+condition
+price
+asking
+sell
+cover
+cd
+interested
+best"]
+"2_25" -> "1_15" [penwidth=1.3965,dir=forward]
+"1_15" [rank =3,fontsize =38.2102, shape=box, style="rounded", color=black,label="15 bike
+dod
+ride
+bikes
+riding
+motorcycle
+sun
+left
+road
+bnr
+ama
+honda"]
+"2_25" -> "1_26" [penwidth=1.3965,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_25" -> "1_39" [penwidth=1.5687,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_25" -> "1_51" [penwidth=1.9724,dir=forward]
+"1_51" [rank =3,fontsize =30.9828, shape=box, style="rounded", color=black,label="51 ground
+wire
+wiring
+neutral
+outlets
+circuit
+cable
+electrical
+wires
+outlet
+connected
+house"]
+"2_25" -> "1_112" [penwidth=1.9981,dir=forward]
+"1_112" [rank =3,fontsize =26.2961, shape=box, style="rounded", color=black,label="112 package
+hiram
+hotel
+college
+kids
+hirama
+job
+kou
+minimum
+douglas
+city
+inner"]
+{rank=same; "1_1" "1_2" "1_3" "1_5" "1_8" "1_20" "1_36" "1_1" "1_2" "1_3" "1_6" "1_7" "1_13" "1_51" "1_1" "1_2" "1_3" "1_6" "1_7" "1_13" "1_51" "1_2" "1_3" "1_7" "1_9" "1_12" "1_15" "1_26" "1_39" "1_51" "1_112"}{rank=same; "2_2" "2_2" "2_10" "2_10" "2_10" "2_10" "2_25" "2_25"}{rank=same; "3_2" "3_11" "3_2" "3_11" "3_11" "3_22" "3_11" "3_22"}{rank=same; "4_14" "4_17" "4_14" "4_17"}{rank=same; "5_12"}}

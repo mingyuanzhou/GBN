@@ -1,0 +1,18 @@
+digraph G {
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"3_26" [ rank =3,fontsize =41.861, shape=box, style="rounded", color=orange, label="26 law new state government
+said president mr rights
+states information public national"]
+"3_27" [ rank =3,fontsize =41.727, shape=box, style="rounded", color=orange, label="27 men cramer gay homosexual
+sexual optilink clayton sex
+homosexuals homosexuality male state"]
+"3_28" [ rank =3,fontsize =41.5412, shape=box, style="rounded", color=orange, label="28 space nasa new work
+gov henry long doesn
+ll said believe let"]
+"3_29" [ rank =3,fontsize =41.3511, shape=box, style="rounded", color=orange, label="29 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"3_30" [ rank =3,fontsize =40.911, shape=box, style="rounded", color=orange, label="30 turkish armenian armenians turks
+armenia turkey government genocide
+soviet said today new"]
+{rank=same;}{rank=same;}{rank=same; "3_26" "3_27" "3_28" "3_29" "3_30"}{rank=same;}{rank=same;}}

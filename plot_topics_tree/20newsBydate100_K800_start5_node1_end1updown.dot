@@ -1,0 +1,636 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_1" [ rank =5,fontsize =50, shape=box, style="rounded", color=red, label="1 windows thanks file dos
+window using mail program
+problem help files work"]
+"5_1" -> "4_1" [penwidth=14.875,dir=forward]
+"4_1" [rank =6,fontsize =50, shape=box, style="rounded", color=green,label="1 windows thanks file dos
+window using mail program
+problem help files work"]
+"4_1" [ rank =4,fontsize =50, shape=box, style="rounded", color=green, label="1 windows thanks file dos
+window using mail program
+problem help files work"]
+"4_1" -> "3_1" [penwidth=4.026,dir=forward]
+"3_1" [rank =5,fontsize =50, shape=box, style="rounded", color=orange,label="1 thanks mail email information
+help fax software info
+advance looking new hi"]
+"4_1" -> "3_5" [penwidth=10.2871,dir=forward]
+"3_5" [rank =5,fontsize =48.1769, shape=box, style="rounded", color=orange,label="5 windows dos file files
+thanks problem program using
+run running win ms"]
+"4_1" -> "3_10" [penwidth=9.3299,dir=forward]
+"3_10" [rank =5,fontsize =46.988, shape=box, style="rounded", color=orange,label="10 window thanks widget application
+using display available program
+mail server set software"]
+"4_1" -> "3_15" [penwidth=3.8587,dir=forward]
+"3_15" [rank =5,fontsize =45.3923, shape=box, style="rounded", color=orange,label="15 card monitor video vga
+windows thanks drivers cards
+mode mail graphics ati"]
+"3_1" [ rank =3,fontsize =50, shape=box, style="rounded", color=orange, label="1 thanks mail email information
+help fax software info
+advance looking new hi"]
+"3_1" -> "2_1" [penwidth=13.8512,dir=forward]
+"2_1" [rank =4,fontsize =50, shape=box, style="rounded", color=blue,label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"3_1" -> "2_26" [penwidth=5.5721,dir=forward]
+"2_26" [rank =4,fontsize =43.3529, shape=box, style="rounded", color=blue,label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_1" [ rank =2,fontsize =50, shape=box, style="rounded", color=blue, label="1 thanks mail email information
+help fax software info
+advance new looking send"]
+"2_1" -> "1_1" [penwidth=4.9616,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_1" -> "1_2" [penwidth=4.5247,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_1" -> "1_3" [penwidth=9.7294,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_1" -> "1_6" [penwidth=6.2271,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_1" -> "1_7" [penwidth=4.0409,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_1" -> "1_42" [penwidth=2.8686,dir=forward]
+"1_42" [rank =3,fontsize =31.7793, shape=box, style="rounded", color=black,label="42 graphics
+ftp
+pub
+data
+ray
+risc
+contact
+sgi
+machines
+pc
+instruction
+mail"]
+"2_1" -> "1_56" [penwidth=1.8844,dir=forward]
+"1_56" [rank =3,fontsize =29.6749, shape=box, style="rounded", color=black,label="56 problem
+polygon
+algorithm
+points
+reference
+edge
+cartridge
+program
+surface
+curve
+line
+edges"]
+"2_1" -> "1_59" [penwidth=1.8251,dir=forward]
+"1_59" [rank =3,fontsize =29.5996, shape=box, style="rounded", color=black,label="59 au
+australia
+oz
+mark
+philips
+canberra
+melbourne
+qdeck
+uwa
+quarterdeck
+network
+prl"]
+"2_1" -> "1_69" [penwidth=1.6249,dir=forward]
+"1_69" [rank =3,fontsize =28.6849, shape=box, style="rounded", color=black,label="69 graphics
+group
+ch
+comp
+umich
+split
+aspects
+groups
+engin
+radiosity
+grafsys
+hidden"]
+"2_26" [ rank =2,fontsize =43.3529, shape=box, style="rounded", color=blue, label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_26" -> "1_1" [penwidth=6.1469,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_26" -> "1_3" [penwidth=6.1376,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_26" -> "1_6" [penwidth=3.8177,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_26" -> "1_8" [penwidth=3.906,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_26" -> "1_27" [penwidth=9.9267,dir=forward]
+"1_27" [rank =3,fontsize =35.1674, shape=box, style="rounded", color=black,label="27 image
+jpeg
+gif
+color
+files
+file
+images
+format
+bit
+display
+graphics
+program"]
+"2_26" -> "1_39" [penwidth=2.082,dir=forward]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"2_26" -> "1_53" [penwidth=1.8811,dir=forward]
+"1_53" [rank =3,fontsize =30.0303, shape=box, style="rounded", color=black,label="53 printer
+hp
+print
+laser
+ink
+printers
+deskjet
+postscript
+bj
+canon
+quality
+toner"]
+"3_5" [ rank =3,fontsize =48.1769, shape=box, style="rounded", color=orange, label="5 windows dos file files
+thanks problem program using
+run running win ms"]
+"3_5" -> "2_6" [penwidth=14.4073,dir=forward]
+"2_6" [rank =4,fontsize =48.557, shape=box, style="rounded", color=blue,label="6 windows dos file problem
+thanks files using program
+run win running ms"]
+"3_5" -> "2_26" [penwidth=4.0202,dir=forward]
+"2_26" [rank =4,fontsize =43.3529, shape=box, style="rounded", color=blue,label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"2_6" [ rank =2,fontsize =48.557, shape=box, style="rounded", color=blue, label="6 windows dos file problem
+thanks files using program
+run win running ms"]
+"2_6" -> "1_1" [penwidth=6.2048,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_6" -> "1_2" [penwidth=5.4173,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_6" -> "1_3" [penwidth=5.6296,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_6" -> "1_6" [penwidth=4.1697,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_6" -> "1_8" [penwidth=9.4703,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_6" -> "1_53" [penwidth=1.5823,dir=forward]
+"1_53" [rank =3,fontsize =30.0303, shape=box, style="rounded", color=black,label="53 printer
+hp
+print
+laser
+ink
+printers
+deskjet
+postscript
+bj
+canon
+quality
+toner"]
+"2_6" -> "1_86" [penwidth=1.4155,dir=forward]
+"1_86" [rank =3,fontsize =27.2942, shape=box, style="rounded", color=black,label="86 font
+fonts
+tt
+truetype
+type
+atm
+printer
+characters
+adobe
+ps
+character
+print"]
+"2_26" [ rank =2,fontsize =43.3529, shape=box, style="rounded", color=blue, label="26 image jpeg gif file
+files color images bit
+format thanks windows program"]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"1_27" [rank =3,fontsize =35.1674, shape=box, style="rounded", color=black,label="27 image
+jpeg
+gif
+color
+files
+file
+images
+format
+bit
+display
+graphics
+program"]
+"1_39" [rank =3,fontsize =32.2729, shape=box, style="rounded", color=black,label="39 uk
+ac
+ed
+picture
+dcs
+sleeve
+liverpool
+demon
+tony
+simon
+oxford
+warwick"]
+"1_53" [rank =3,fontsize =30.0303, shape=box, style="rounded", color=black,label="53 printer
+hp
+print
+laser
+ink
+printers
+deskjet
+postscript
+bj
+canon
+quality
+toner"]
+"3_10" [ rank =3,fontsize =46.988, shape=box, style="rounded", color=orange, label="10 window thanks widget application
+using display available program
+mail server set software"]
+"3_10" -> "2_9" [penwidth=14.9202,dir=forward]
+"2_9" [rank =4,fontsize =47.6786, shape=box, style="rounded", color=blue,label="9 window thanks widget application
+using display available program
+mail server set software"]
+"2_9" [ rank =2,fontsize =47.6786, shape=box, style="rounded", color=blue, label="9 window thanks widget application
+using display available program
+mail server set software"]
+"2_9" -> "1_1" [penwidth=6.6038,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_9" -> "1_2" [penwidth=3.3623,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_9" -> "1_3" [penwidth=5.2544,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_9" -> "1_6" [penwidth=6.9847,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_9" -> "1_18" [penwidth=8.3153,dir=forward]
+"1_18" [rank =3,fontsize =37.2946, shape=box, style="rounded", color=black,label="18 window
+widget
+application
+display
+manager
+set
+using
+problem
+visual
+color
+value
+xlib"]
+"2_9" -> "1_68" [penwidth=2.1088,dir=forward]
+"1_68" [rank =3,fontsize =28.7361, shape=box, style="rounded", color=black,label="68 xterm
+keyboard
+key
+echo
+keys
+title
+host
+set
+keycode
+sequences
+ff
+hostname"]
+"2_9" -> "1_74" [penwidth=1.9046,dir=forward]
+"1_74" [rank =3,fontsize =28.2343, shape=box, style="rounded", color=black,label="74 lib
+libxmu
+xmu
+ld
+symbol
+undefined
+doug
+usr
+imake
+problem
+sunos
+error"]
+"3_15" [ rank =3,fontsize =45.3923, shape=box, style="rounded", color=orange, label="15 card monitor video vga
+windows thanks drivers cards
+mode mail graphics ati"]
+"3_15" -> "2_16" [penwidth=14.5917,dir=forward]
+"2_16" [rank =4,fontsize =45.911, shape=box, style="rounded", color=blue,label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"2_16" [ rank =2,fontsize =45.911, shape=box, style="rounded", color=blue, label="16 card monitor video vga
+windows drivers thanks cards
+mode mail graphics ati"]
+"2_16" -> "1_1" [penwidth=5.7195,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_16" -> "1_2" [penwidth=3.7046,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_16" -> "1_3" [penwidth=6.7582,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_16" -> "1_6" [penwidth=2.466,dir=forward]
+"1_6" [rank =3,fontsize =40.6629, shape=box, style="rounded", color=black,label="6 available
+software
+version
+ftp
+server
+file
+sun
+program
+unix
+mit
+information
+code"]
+"2_16" -> "1_8" [penwidth=3.812,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_16" -> "1_17" [penwidth=10.3261,dir=forward]
+"1_17" [rank =3,fontsize =37.5683, shape=box, style="rounded", color=black,label="17 card
+monitor
+video
+vga
+drivers
+cards
+mode
+ati
+graphics
+screen
+svga
+driver"]
+{rank=same; "1_1" "1_2" "1_3" "1_6" "1_7" "1_42" "1_56" "1_59" "1_69" "1_1" "1_3" "1_6" "1_8" "1_27" "1_39" "1_53" "1_1" "1_2" "1_3" "1_6" "1_8" "1_53" "1_86" "1_1" "1_3" "1_6" "1_8" "1_27" "1_39" "1_53" "1_1" "1_2" "1_3" "1_6" "1_18" "1_68" "1_74" "1_1" "1_2" "1_3" "1_6" "1_8" "1_17"}{rank=same; "2_1" "2_26" "2_1" "2_26" "2_6" "2_26" "2_6" "2_26" "2_9" "2_9" "2_16" "2_16"}{rank=same; "3_1" "3_5" "3_10" "3_15" "3_1" "3_5" "3_10" "3_15"}{rank=same; "4_1" "4_1"}{rank=same; "5_1"}}

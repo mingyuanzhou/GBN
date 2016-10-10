@@ -1,0 +1,7 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_40" [ rank =5,fontsize =20.9775, shape=box, style="rounded", color=red, label="40 new thanks mail work
+said ll believe help
+information years problem let"]
+{rank=same;}{rank=same;}{rank=same;}{rank=same;}{rank=same; "5_40"}}

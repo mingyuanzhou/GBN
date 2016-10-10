@@ -1,0 +1,243 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_24" [ rank =5,fontsize =40.4766, shape=box, style="rounded", color=red, label="24 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"5_24" -> "4_25" [penwidth=14.4218,dir=forward]
+"4_25" [rank =6,fontsize =40.1358, shape=box, style="rounded", color=green,label="25 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"4_25" [ rank =4,fontsize =40.1358, shape=box, style="rounded", color=green, label="25 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"4_25" -> "3_29" [penwidth=14.6158,dir=forward]
+"3_29" [rank =5,fontsize =41.3511, shape=box, style="rounded", color=orange,label="29 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"3_29" [ rank =3,fontsize =41.3511, shape=box, style="rounded", color=orange, label="29 pitt gordon banks geb
+skepticism soon cadre intellect
+chastity jxp surrender shameful"]
+"3_29" -> "2_12" [penwidth=6.7667,dir=forward]
+"2_12" [rank =4,fontsize =46.7367, shape=box, style="rounded", color=blue,label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"3_29" -> "2_33" [penwidth=13.249,dir=forward]
+"2_33" [rank =4,fontsize =41.1025, shape=box, style="rounded", color=blue,label="33 pitt gordon banks geb
+skepticism cadre soon intellect
+chastity jxp surrender shameful"]
+"2_12" [ rank =2,fontsize =46.7367, shape=box, style="rounded", color=blue, label="12 disease doctor pain new
+help treatment medical years
+said problem patients thanks"]
+"2_12" -> "1_1" [penwidth=8.9924,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_12" -> "1_2" [penwidth=4.368,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_12" -> "1_3" [penwidth=2.9964,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_12" -> "1_7" [penwidth=4.011,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_12" -> "1_21" [penwidth=8.0394,dir=forward]
+"1_21" [rank =3,fontsize =36.5527, shape=box, style="rounded", color=black,label="21 disease
+doctor
+pain
+treatment
+medical
+patients
+medicine
+cancer
+help
+skin
+blood
+problems"]
+"2_12" -> "1_26" [penwidth=2.0902,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_12" -> "1_67" [penwidth=2.3023,dir=forward]
+"1_67" [rank =3,fontsize =28.7509, shape=box, style="rounded", color=black,label="67 msg
+food
+chinese
+taste
+reaction
+restaurant
+allergic
+mot
+flavor
+dougb
+sick
+eat"]
+"2_12" -> "1_71" [penwidth=2.2916,dir=forward]
+"1_71" [rank =3,fontsize =28.4008, shape=box, style="rounded", color=black,label="71 candida
+yeast
+noring
+steve
+symptoms
+jon
+vitamin
+dyer
+body
+quack
+patients
+sinus"]
+"2_12" -> "1_73" [penwidth=2.1708,dir=forward]
+"1_73" [rank =3,fontsize =28.3181, shape=box, style="rounded", color=black,label="73 msg
+dyer
+spdcc
+glutamate
+food
+effects
+brain
+studies
+humans
+blood
+olney
+foods"]
+"2_12" -> "1_89" [penwidth=1.6733,dir=forward]
+"1_89" [rank =3,fontsize =27.2109, shape=box, style="rounded", color=black,label="89 health
+aids
+hiv
+medical
+cancer
+number
+april
+tobacco
+hicnet
+volume
+newsletter
+children"]
+"2_33" [ rank =2,fontsize =41.1025, shape=box, style="rounded", color=blue, label="33 pitt gordon banks geb
+skepticism cadre soon intellect
+chastity jxp surrender shameful"]
+"2_33" -> "1_1" [penwidth=7.1427,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_33" -> "1_2" [penwidth=6.3866,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_33" -> "1_21" [penwidth=4.0655,dir=forward]
+"1_21" [rank =3,fontsize =36.5527, shape=box, style="rounded", color=black,label="21 disease
+doctor
+pain
+treatment
+medical
+patients
+medicine
+cancer
+help
+skin
+blood
+problems"]
+"2_33" -> "1_35" [penwidth=9.9254,dir=forward]
+"1_35" [rank =3,fontsize =33.3376, shape=box, style="rounded", color=black,label="35 pitt
+gordon
+banks
+geb
+skepticism
+cadre
+chastity
+intellect
+jxp
+soon
+surrender
+shameful"]
+"2_33" -> "1_128" [penwidth=1.3298,dir=forward]
+"1_128" [rank =3,fontsize =25.7774, shape=box, style="rounded", color=black,label="128 cnsvax
+uwec
+nye
+nyeda
+absurd
+clinic
+bertrand
+absurdities
+eau
+claire
+philosopher
+wishes"]
+"2_33" -> "1_164" [penwidth=1.7139,dir=forward]
+"1_164" [rank =3,fontsize =24.5397, shape=box, style="rounded", color=black,label="164 weight
+omen
+obesity
+cycle
+chuck
+wa
+rebound
+uucp
+forsberg
+caf
+kgx
+lost"]
+{rank=same; "1_1" "1_2" "1_3" "1_7" "1_21" "1_26" "1_67" "1_71" "1_73" "1_89" "1_1" "1_2" "1_21" "1_35" "1_128" "1_164"}{rank=same; "2_12" "2_33" "2_12" "2_33"}{rank=same; "3_29" "3_29"}{rank=same; "4_25" "4_25"}{rank=same; "5_24"}}

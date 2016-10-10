@@ -1,0 +1,119 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_21" [ rank =5,fontsize =41.3582, shape=box, style="rounded", color=red, label="21 drive disk scsi hard
+drives mb thanks windows
+controller mail floppy ide"]
+"5_21" -> "4_19" [penwidth=14.4154,dir=forward]
+"4_19" [rank =6,fontsize =41.6383, shape=box, style="rounded", color=green,label="19 drive disk scsi hard
+drives mb thanks windows
+controller mail floppy ide"]
+"4_19" [ rank =4,fontsize =41.6383, shape=box, style="rounded", color=green, label="19 drive disk scsi hard
+drives mb thanks windows
+controller mail floppy ide"]
+"4_19" -> "3_16" [penwidth=14.4069,dir=forward]
+"3_16" [rank =5,fontsize =45.2822, shape=box, style="rounded", color=orange,label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"3_16" [ rank =3,fontsize =45.2822, shape=box, style="rounded", color=orange, label="16 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"3_16" -> "2_15" [penwidth=14.8692,dir=forward]
+"2_15" [rank =4,fontsize =45.9432, shape=box, style="rounded", color=blue,label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" [ rank =2,fontsize =45.9432, shape=box, style="rounded", color=blue, label="15 drive scsi disk hard
+drives mb windows thanks
+controller floppy mail ide"]
+"2_15" -> "1_1" [penwidth=6.9457,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_15" -> "1_2" [penwidth=4.0415,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_15" -> "1_3" [penwidth=6.2502,dir=forward]
+"1_3" [rank =3,fontsize =44.9965, shape=box, style="rounded", color=black,label="3 thanks
+mail
+email
+help
+fax
+advance
+looking
+hi
+info
+information
+phone
+send"]
+"2_15" -> "1_8" [penwidth=4.6893,dir=forward]
+"1_8" [rank =3,fontsize =40.1499, shape=box, style="rounded", color=black,label="8 windows
+dos
+file
+files
+problem
+program
+run
+using
+win
+disk
+ms
+driver"]
+"2_15" -> "1_20" [penwidth=8.0057,dir=forward]
+"1_20" [rank =3,fontsize =36.8942, shape=box, style="rounded", color=black,label="20 drive
+disk
+drives
+hard
+controller
+floppy
+mb
+bios
+rom
+hd
+st
+card"]
+"2_15" -> "1_36" [penwidth=4.8515,dir=forward]
+"1_36" [rank =3,fontsize =33.1636, shape=box, style="rounded", color=black,label="36 scsi
+mb
+bus
+ide
+controller
+isa
+bit
+pc
+drive
+data
+mac
+os"]
+"2_15" -> "1_104" [penwidth=1.8056,dir=forward]
+"1_104" [rank =3,fontsize =26.7458, shape=box, style="rounded", color=black,label="104 tape
+adaptec
+aspi
+backup
+sys
+tapes
+jumbo
+cdrom
+scsiha
+timing
+unit
+colorado"]
+{rank=same; "1_1" "1_2" "1_3" "1_8" "1_20" "1_36" "1_104"}{rank=same; "2_15" "2_15"}{rank=same; "3_16" "3_16"}{rank=same; "4_19" "4_19"}{rank=same; "5_21"}}

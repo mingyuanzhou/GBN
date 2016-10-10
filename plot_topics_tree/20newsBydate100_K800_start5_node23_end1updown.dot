@@ -1,0 +1,119 @@
+digraph G {
+size="18,18!";ranksep=4; ratio = auto; layers="1:2:3:4:5";
+graph [fontname = "helvetica"];node [fontname = "helvetica"];edge [fontname = "helvetica"];ranksep=2.8;
+"5_23" [ rank =5,fontsize =40.6655, shape=box, style="rounded", color=red, label="23 israel jews israeli arab
+jewish state new arabs
+peace land years true"]
+"5_23" -> "4_24" [penwidth=14.0861,dir=forward]
+"4_24" [rank =6,fontsize =40.5053, shape=box, style="rounded", color=green,label="24 israel jews israeli arab
+jewish state arabs peace
+land new years policy"]
+"4_24" [ rank =4,fontsize =40.5053, shape=box, style="rounded", color=green, label="24 israel jews israeli arab
+jewish state arabs peace
+land new years policy"]
+"4_24" -> "3_18" [penwidth=14.4465,dir=forward]
+"3_18" [rank =5,fontsize =44.9146, shape=box, style="rounded", color=orange,label="18 israel jews israeli arab
+jewish state arabs peace
+land policy new years"]
+"3_18" [ rank =3,fontsize =44.9146, shape=box, style="rounded", color=orange, label="18 israel jews israeli arab
+jewish state arabs peace
+land policy new years"]
+"3_18" -> "2_18" [penwidth=14.7406,dir=forward]
+"2_18" [rank =4,fontsize =45.5313, shape=box, style="rounded", color=blue,label="18 israel jews israeli arab
+jewish arabs state peace
+land policy center new"]
+"2_18" [ rank =2,fontsize =45.5313, shape=box, style="rounded", color=blue, label="18 israel jews israeli arab
+jewish arabs state peace
+land policy center new"]
+"2_18" -> "1_1" [penwidth=7.8217,dir=forward]
+"1_1" [rank =3,fontsize =50, shape=box, style="rounded", color=black,label="1 doesn
+new
+problem
+work
+probably
+let
+said
+years
+ll
+long
+question
+course"]
+"2_18" -> "1_2" [penwidth=5.438,dir=forward]
+"1_2" [rank =3,fontsize =46.1741, shape=box, style="rounded", color=black,label="2 michael
+netcom
+andrew
+new
+uucp
+internet
+mark
+steve
+opinions
+mike
+mail
+net"]
+"2_18" -> "1_7" [penwidth=2.4513,dir=forward]
+"1_7" [rank =3,fontsize =40.4508, shape=box, style="rounded", color=black,label="7 new
+information
+national
+research
+program
+year
+april
+center
+washington
+general
+years
+dr"]
+"2_18" -> "1_14" [penwidth=2.8376,dir=forward]
+"1_14" [rank =3,fontsize =38.5467, shape=box, style="rounded", color=black,label="14 law
+government
+rights
+state
+court
+laws
+states
+public
+case
+civil
+legal
+federal"]
+"2_18" -> "1_25" [penwidth=8.2314,dir=forward]
+"1_25" [rank =3,fontsize =35.5789, shape=box, style="rounded", color=black,label="25 jews
+israel
+israeli
+jewish
+arab
+arabs
+land
+center
+policy
+anti
+research
+palestine"]
+"2_18" -> "1_26" [penwidth=1.4756,dir=forward]
+"1_26" [rank =3,fontsize =35.2628, shape=box, style="rounded", color=black,label="26 said
+went
+didn
+came
+told
+saw
+home
+left
+started
+says
+took
+apartment"]
+"2_18" -> "1_32" [penwidth=6.3481,dir=forward]
+"1_32" [rank =3,fontsize =33.7703, shape=box, style="rounded", color=black,label="32 israel
+israeli
+lebanese
+lebanon
+attacks
+peace
+arab
+israelis
+civilians
+killed
+palestinian
+soldiers"]
+{rank=same; "1_1" "1_2" "1_7" "1_14" "1_25" "1_26" "1_32"}{rank=same; "2_18" "2_18"}{rank=same; "3_18" "3_18"}{rank=same; "4_24" "4_24"}{rank=same; "5_23"}}
